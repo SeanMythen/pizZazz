@@ -14,6 +14,10 @@ intro_paragraph: |-
   | Friday    | Text      |
   | Saturday  | Closed    |
 
+
+
+
+
   [217-721-9724](tel:217-721-9724)
 ---
 
