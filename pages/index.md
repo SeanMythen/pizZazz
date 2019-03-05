@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PiZzazz - Where Looks Matter
+title: piZzazz - Where Looks Matter
 permalink: /
 section: home
 intro_paragraph: >
