@@ -19,9 +19,13 @@ main {
   height: 100vh;
 }
 
-th, td {
+th{
   font-weight: bold;
+}
+th, td {
   border-bottom: 1px solid #ddd;
+  min-width: auto;
+  max-width: auto;
   width: auto;
 }
 
