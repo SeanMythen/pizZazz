@@ -42,7 +42,7 @@ p.intro {
   color: lighten($text-color, 40%);
   padding-bottom: 4rem;
   @media screen and (min-width: $screen-sm-min) {
-    padding-bottom: 4rem;
+    padding-bottom: 0rem;
   }
 }
 
