@@ -61,20 +61,21 @@ h4{
 }
 
 a, a:visited{
-  border: 2px solid #a9302d;
+  border: 2px solid #c23f3c;
   border-radius: 10px;
   padding: 15px;
   text-decoration: none;
-  color: #a9302d;
+  color: #c23f3c;
   margin-top: 12px;
+  transition: .4s;
 }
 
 a:hover{
-  border: 2px solid #a9302d;
+  border: 2px solid #5e1413;
   border-radius: 10px;
   padding: 15px;
   text-decoration: none;
-  color: #a9302d;
+  color: #5e1413;
   margin-top: 10px;
 }
 
