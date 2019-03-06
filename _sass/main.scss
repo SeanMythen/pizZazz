@@ -61,12 +61,15 @@ h4{
 }
 
 #phone_number, #phone_number:visited{
-  background: blue;
-  border: 2px solid #c23f3c;
-  border-radius: 10px;
+	font-weight: 500;
+	font-size: 16px;
+  letter-spacing: 0.07em;
+  line-height: 24px;
+	color: white;
+  background: #fa7e29;
+  border-radius: 4px;
   padding: 15px;
   text-decoration: none;
-  color: #c23f3c;
   margin-top: 12px;
   transition: color .3s, border .3s;
 }
