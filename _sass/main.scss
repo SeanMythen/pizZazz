@@ -122,3 +122,9 @@ b{
     margin-left: auto;
     margin-right: auto;
 }
+
+@media only screen and (max-width: 1000px) {
+  #hours_map_container {
+    flex-direction: column-reverse;
+  }
+}
