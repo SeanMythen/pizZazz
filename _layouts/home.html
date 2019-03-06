@@ -23,7 +23,7 @@ layout: default
       id: 'mapbox.streets'
     }).addTo(mymap);
 
-    mymap.attributionControl.setPrefix(false);
+    L.control.attribution.setPrefix(false);
   
     L.marker([40.111222, -88.2384639]).addTo(mymap)
       .bindPopup("<b>PizZazz</b>").openPopup();
