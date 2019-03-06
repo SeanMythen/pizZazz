@@ -60,15 +60,7 @@ h4{
   padding-bottom: 2rem;
 }
 
-#phone_number{
-  color: #c23f3c;
-}
-
-#phone_number:hover{
-  color: #5e1413;
-}
-
-a, a:visited{
+#phone_number, #phone_number:visited{
   border: 2px solid #c23f3c;
   border-radius: 10px;
   padding: 15px;
@@ -78,7 +70,7 @@ a, a:visited{
   transition: color .3s, border .3s;
 }
 
-a:hover{
+#phone_number:hover{
   border: 2px solid #5e1413;
   border-radius: 10px;
   padding: 15px;
