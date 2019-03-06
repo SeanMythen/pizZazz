@@ -75,7 +75,7 @@ a, a:visited{
   text-decoration: none;
   color: #c23f3c;
   margin-top: 12px;
-  transition: .3s;
+  transition: color .3s, border .3s;
 }
 
 a:hover{
