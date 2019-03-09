@@ -41,6 +41,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
-      - {label: "Hours", name: "hours", widget: "markdown", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - {label: "Hours", name: "hours", widget: "markdown"}
