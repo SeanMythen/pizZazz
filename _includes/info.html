@@ -1,7 +1,6 @@
 {% if page.info and page.info != '' %}
-<div id="info">
-    Walk-ins Welcome! <br>
-    $15 Mens Cuts!
+  <div id="info">
+    {{ page.info | markdownify }}
   </div>
 {% endif %}
   
