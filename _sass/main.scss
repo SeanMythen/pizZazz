@@ -11,6 +11,10 @@
 ;
 
 
+b{
+  font-weight: bold;
+}
+
 body > * {
   padding: initial;
 }
@@ -235,11 +239,22 @@ main table {
     padding-bottom: 50px;
 }
 
-
+p{
+  max-width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.2;
+}
 
 #warped {
   transform: scale(3);
   height: 140px;
+}
+
+
+#stylists_container{
+  width: 100vw;
+  height: 400px;
 }
 
 
