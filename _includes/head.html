@@ -120,6 +120,41 @@ a{
 
     </style>
 
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDDxXtuYanZpwLDoFVRvK7PTU3hYEE-nLs&callback=initMap" async defer> </script>
+
+<script>
+
+var map;
+function initMap() {
+
+  var myLatLng = {lat: 40.111222, lng: -88.2384639};
+
+  map = new google.maps.Map(document.getElementById('map'), {
+    center: {lat: 40.111222, lng: -88.2384639},
+    zoom: 14,
+    disableDefaultUI: true,
+    zoomControl: true
+  });
+
+  var contentString ='<b>PizZazz</b>' + '<br> 602a S 1st St<br> Champaign, IL 61820<br> <a href="https://www.google.com/maps/place/PizZazz/@40.1107057,-88.2401895,16.75z/data=!4m5!3m4!1s0x0:0xcb22c9d4827c593c!8m2!3d40.111222!4d-88.2384639">View on Google Maps</a><br>';
+
+    var infowindow = new google.maps.InfoWindow({
+        content: contentString,
+        });
+
+    var marker = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          title: 'PizZazz'
+  });
+
+  marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
+}
+
+</script>
+
 
 
 
