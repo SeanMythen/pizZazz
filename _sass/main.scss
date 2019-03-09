@@ -253,7 +253,7 @@ main table {
   }
   #map {
     width: 575px;
-    align-items: flex-end;
+
   }
   #info{
     margin-bottom: 0;
@@ -264,7 +264,7 @@ main table {
 @media only screen and (max-width: 950px) {
   #map {
     width: 575px;
-    align-items: flex-end;
+
   }
 
   #warped {
@@ -290,7 +290,7 @@ main table {
 @media only screen and (max-width: 640px) {
   #map {
     width: 97%;
-    align-items: flex-end;
+
   }
 
   #warped {
@@ -318,10 +318,7 @@ main table {
 }
 
 @media only screen and (max-width: 530px) {
-  #map {
-    width: 97%;
-    align-items: flex-end;
-  }
+
 
   #warped {
     transform: scale(1.5);
