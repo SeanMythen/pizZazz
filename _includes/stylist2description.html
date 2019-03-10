@@ -1,5 +1,5 @@
 {% if page.stylist2description and page.stylist2description != '' %}
 <div id="stylist_description">
-    {{ page.stylist2description | markdownify }}
+    {{ page.stylist2description | markdownify | remove: '<p>' | remove: '</p>'}}
 </div>
 {% endif %}
