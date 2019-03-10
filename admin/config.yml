@@ -44,6 +44,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
       # - {label: "Body", name: "body", widget: "markdown",}
       - {label: "Info", name: "info", widget: "markdown", }
+      - {label: "Hours", name: "hours", widget: "markdown"}
       - {label: "Sylist 1 Image", name: "stylist1image", widget: "image"}
       - {label: "Sylist 1 Name", name: "stylist1name", widget: "markdown"}
       - {label: "Sylist 1 Description", name: "stylist1description", widget: "markdown"}
