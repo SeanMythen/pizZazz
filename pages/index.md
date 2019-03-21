@@ -7,6 +7,8 @@ info: |-
   Walk-ins Welcome!
 
   $15 Men's Cuts!
+
+  Last client taken 5:45 p.m.
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
