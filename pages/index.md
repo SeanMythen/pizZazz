@@ -7,7 +7,16 @@ info: |-
   Walk-ins Welcome!
 
   $15 Men's Cuts!
-hours: "| Day       | Hours    |\r\n|:----------|:---------|\r\n| Sunday    | Closed   |\r\n| Monday    | 11 a.m. - 6 p.m. |\r\n| Tuesday   | 11 a.m. - 7 p.m. |\r\n| Wednesday | 11 a.m. - 6 p.m.|\r\n| Thursday  | 11 a.m. - 7 p.m. |\r\n| Friday    | 11 a.m. - 6 p.m. |\r\n| Saturday  | Closed   |\n\n\n\n\n\n"
+hours: |-
+  | Day       | Hours            |
+  | --------- | ---------------- |
+  | Sunday    | Closed           |
+  | Monday    | 11 a.m. - 6 p.m. |
+  | Tuesday   | 11 a.m. - 6 p.m. |
+  | Wednesday | 11 a.m. - 6 p.m. |
+  | Thursday  | 11 a.m. - 6 p.m. |
+  | Friday    | 11 a.m. - 6 p.m. |
+  | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/pexels-photo-289586.jpeg
 stylist1name: Sean Mythen
 stylist1description: >-
