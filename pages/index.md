@@ -8,7 +8,7 @@ info: |-
 
   $15 Men's Cuts!
 
-  Must be here before 5:45 p.m.
+  Last client taken at 5:45 p.m.
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
@@ -21,17 +21,9 @@ hours: |-
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/sean.jpg
 stylist1name: Madlayn Tinsley
-stylist1description: tdiykuggtf**tovgu hi this**
+stylist1description: Madlayn has been a hair stylist for () years. She started out...
 stylist2image: /assets/img/uploads/hero.jpeg
-stylist2name: John Doe
-stylist2description: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book. It has survived not only five centuries, but also the leap into
-  electronic typesetting, remaining essentially unchanged. It was popularised in
-  the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-  and more recently with desktop publishing software like Aldus PageMaker
-  including versions of Lorem Ipsum.
+stylist2name: Kim
+stylist2description: Kim is originally...
 ---
 
