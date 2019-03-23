@@ -7,6 +7,7 @@ if( navigator.userAgent.match(/Android/i)
  || navigator.userAgent.match(/Windows Phone/i))
  {
 
+document.body.style.backgroundImage = "url('../assets/background2.jpg')";
 document.body.style.backgroundAttachment = "scroll";
 
  }
