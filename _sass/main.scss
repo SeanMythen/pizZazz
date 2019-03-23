@@ -10,10 +10,6 @@
   "partials/app"
 ;
 
-html{
-  height: 100%;
-}
-
 b{
   font-weight: bold;
 }
@@ -80,7 +76,6 @@ body{
 }
 
 main {
-  top: 30px;
   text-align: center;
   height: 100vh;
   position: relative;
@@ -256,6 +251,7 @@ p{
 }
 
 #PizzazzTitle{
+  margin-top: 30px;
   height: 250px;
   padding-left: 20px;
   padding-right: 20px;
