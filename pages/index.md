@@ -6,9 +6,9 @@ section: home
 info: |-
   Walk-ins Welcome!
 
-  $15 Men's Cuts!
+  $15 Men's Cuts
 
-  Last client taken 15 minutes before close.
+  Last client taken 15 minutes before close
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
