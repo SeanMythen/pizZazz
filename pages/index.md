@@ -19,7 +19,7 @@ hours: |-
   | Thursday  | 11 a.m. - 6 p.m. |
   | Friday    | 11 a.m. - 6 p.m. |
   | Saturday  | Closed           |
-stylist1image: /assets/img/uploads/sean.jpg
+stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: Madlayn Tinsley
 stylist1description: >-
   Madlayn is the owner and founder of PizZazz.  She has been a hair stylist
