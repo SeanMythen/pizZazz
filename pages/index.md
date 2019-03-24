@@ -21,7 +21,9 @@ hours: |-
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/sean.jpg
 stylist1name: Madlayn Tinsley
-stylist1description: Madlayn has been a hair stylist for () years. She started out...
+stylist1description: >-
+  Madlayn is the owner and founder of PizZazz.  She has been a hair stylist
+  for...
 stylist2image: /assets/img/uploads/hero.jpeg
 stylist2name: Kim
 stylist2description: Kim is originally...
