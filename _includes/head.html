@@ -3,6 +3,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.section == "home" %}{{ site.title }}{% else %}{{ page.title | default: site.title }}{% endif %}</title>
 
+  <style>
+
+      body{
+        background: url("../assets/background.jpg") no-repeat center center fixed; 
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        display: initial;
+      }
+
+  </style>
+
+
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Poppins:900" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700" rel="stylesheet">
@@ -39,16 +54,6 @@ crossorigin="anonymous"
 
 
   <style>
-
-body{
-  background: url("../assets/background.jpg") no-repeat center center fixed; 
-  background-attachment: fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  display: initial;
-}
 
 
 body::after{
