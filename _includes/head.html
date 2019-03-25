@@ -40,6 +40,17 @@ crossorigin="anonymous"
 
   <style>
 
+body{
+  background: url("../assets/background.jpg") no-repeat center center fixed; 
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: initial;
+}
+
+
 body::after{
     position:absolute; width:0; height:0; overflow:hidden; z-index:-1;
     content:url("../assets/background.jpg");
