@@ -121,12 +121,14 @@ th, td {
   width: auto;
 }
 
-th:last-child{
+th:last-child{  
   border-radius: 0 20px 0 0;
+
 }
 
 tr:last-child td:first-child {
   border-radius: 0 0 0 20px;
+
 }
 
 
@@ -156,12 +158,13 @@ h4{
 
 #phone_container{
   height: 80px;
-  font-family: 'Kameron', serif;
-  font-weight: 900;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
 }
 
 #phone_number, #phone_number:visited{
-	font-size: 27px;
+	font-size: 23px;
 	color: white;
   background: rgb(250, 125, 41);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#FA7D29), to(#fb9d23));
@@ -211,6 +214,7 @@ main table {
 }
 
 #map {
+  border: 3px solid rgba(230, 92, 0, .125);
   height: 292px; 
   width: 575px;
   border-radius: 5px;
@@ -225,8 +229,8 @@ main table {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   font-weight: 500;
-  margin-top: 50px;
-  margin-bottom: 75px;
+  margin-top: 25px;
+  margin-bottom: 50px;
   cursor: default;
   line-height: .7;
 }
