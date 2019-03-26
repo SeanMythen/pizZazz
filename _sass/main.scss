@@ -249,7 +249,7 @@ main table {
   font-size: 30px;
   font-weight: 500;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   cursor: default;
   line-height: .7;
 }
@@ -264,7 +264,7 @@ main table {
     width: 950px;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 p{
@@ -394,10 +394,10 @@ p.intro{
 
   #hours_map_container {
     flex-direction: column-reverse;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     width: 95%;
-    height:725px;
+    height:560px;
   }
   #map {
     width: 575px;
