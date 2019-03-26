@@ -33,6 +33,8 @@ collections: # A list of collections the CMS should be able to edit
     # PAGES
   - name: "page"
     label: "Home Page"
+    editor:
+      preview: false
     folder: "pages"
     sort: "title:asc"
     create: false
