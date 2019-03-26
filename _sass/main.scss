@@ -192,6 +192,25 @@ h4{
   // padding: 16px;
 }
 
+#cuts_container{
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 950px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cuts{
+  border: 3px solid rgba(230, 92, 0, .5);
+  width: 225px;
+  border-radius: 6px;
+}
+
+
 body{
   background: url("../assets/background.jpg") no-repeat center center fixed; 
   background-attachment: fixed;
@@ -229,7 +248,7 @@ main table {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   font-weight: 500;
-  margin-top: 25px;
+  margin-top: 50px;
   margin-bottom: 50px;
   cursor: default;
   line-height: .7;
@@ -357,6 +376,22 @@ p.intro{
 
 
 @media only screen and (max-width: 1000px) {
+
+
+  #cuts_container{
+
+    width: 95%;
+    flex-direction: row;
+
+  }
+
+  .cuts{
+
+    width: 175px;
+
+  }
+
+
   #hours_map_container {
     flex-direction: column-reverse;
     justify-content: space-evenly;
@@ -436,6 +471,29 @@ p.intro{
   }
 
 }
+
+@media only screen and (max-width: 800px) {
+
+#cuts_container{
+
+  width: 90%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+}
+
+.cuts{
+
+  width: 35vw;
+  margin: 10px;
+
+}
+
+}
+
+
+
 
 @media only screen and (max-width: 680px) {
   #map {
