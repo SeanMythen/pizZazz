@@ -8,6 +8,8 @@ info: |-
 
   $15 Men's Cuts
 
+  ![test Image Alt TextTest](/assets/img/uploads/Madlayn.jpg "Test Image")
+
   Last client taken 15 minutes before close
 hours: |-
   | Day       | Hours            |
