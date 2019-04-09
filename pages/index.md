@@ -3,7 +3,11 @@ layout: home
 title: PizZazz
 permalink: /
 section: home
-cut1image: /assets/img/uploads/Madlayn.jpg
+cut1image: assets/cuts/1.jpg
+cut2image: assets/cuts/2.jpg
+cut3image: assets/cuts/9.jpg
+cut4image: assets/cuts/4.jpg
+cut5image: assets/cuts/8.jpg
 info: |-
   Walk-ins Welcome!
 

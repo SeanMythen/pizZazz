@@ -46,7 +46,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Permalink", name: "permalink", widget: "hidden"}
       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
       # - {label: "Body", name: "body", widget: "markdown",}
-      - {label: "Cut 1 Image *Image must be square*", name: "cut1image", widget: "image"}
+      - {label: "Image 1", name: "cut1image", widget: "image"}
+      - {label: "Image 2", name: "cut2image", widget: "image"}
+      - {label: "Image 3", name: "cut3image", widget: "image"}
+      - {label: "Image 4", name: "cut4image", widget: "image"}
+      - {label: "Image 5", name: "cut5image", widget: "image"}
       - {label: "Info", name: "info", widget: "markdown", }
       - {label: "Hours", name: "hours", widget: "markdown"}
       - {label: "Sylist 1 Image *Image must be square*", name: "stylist1image", widget: "image"}
