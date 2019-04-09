@@ -8,8 +8,6 @@ info: |-
 
   $15 Men's Cuts
 
-  ![test Image Alt TextTest](/assets/img/uploads/Madlayn.jpg "Test Image")
-
   Last client taken 15 minutes before close
 hours: |-
   | Day       | Hours            |
@@ -24,12 +22,12 @@ hours: |-
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: Madlayn Tinsley
 stylist1description: >-
-  I have been a hairstylist for 20 plus years. I've always had a desire to open
-  a Barber Shop on campus to accommodate students and staff with affordable
-  prices, and in 2012 PizZazz's doors opened.  Here, you will find an
-  environment and atmosphere that is welcoming to all people.  I'm very
-  passionate about what I do and I enjoy meeting and servicing all
-  nationalities.
+  I have been a hairstylist for more than 20 years.  I'm very passionate about
+  what I do and I enjoy meeting new people.  I've always had a desire to open a
+  Barber Shop on campus that could accommodate students and staff with
+  affordable prices.  In 2012 PizZazz's doors opened to the public, and since
+  then, has been providing an environment and atmosphere that is welcoming to
+  people of all nationalities.
 stylist2image: /assets/img/uploads/hero.jpeg
 stylist2name: Kim
 stylist2description: Kim is originally...
