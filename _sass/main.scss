@@ -173,16 +173,12 @@ h4{
   background-image: -ms-linear-gradient(top, #FA7D29, #fb9d23);
   background-image: -o-linear-gradient(top, #FA7D29, #fb9d23);
   background-image: linear-gradient(to bottom, #FA7D29, #fb9d23);
-
-
-
   border-radius: 4px;
   padding: 13px;
   text-decoration: none;
   top: 12px;
   transition: box-shadow .25s, border .25s, top .25s, padding .1s;
   position: relative;
-
 }
 
 #phone_number:hover{
@@ -191,6 +187,31 @@ h4{
   box-shadow: 0px 19px 32px -15px rgb(110, 50, 18); 
   // padding: 16px;
 }
+
+
+#appointment_container{
+  margin-top: 25px;
+  margin-bottom: 35px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  // letter-spacing: 2px;
+}
+
+#appointment_text, #appointment_text:visited{
+	font-size: 30px;
+	color: #e65c00;
+  padding: 13px;
+  text-decoration: underline;
+  top: 12px;
+  transition: box-shadow .25s, border .25s, top .25s, padding .1s;
+  position: relative;
+}
+
+#appointment_text:hover{
+  top: 10px;
+}
+
+
 
 #cuts_container{
   margin-top: 30px;
@@ -248,7 +269,7 @@ main table {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   font-weight: 500;
-  margin-top: 50px;
+  margin-top: 25px;
   margin-bottom: 25px;
   cursor: default;
   line-height: .7;
