@@ -14,6 +14,16 @@ info: |-
   $15 Men's Cuts
 
   Last client taken 15 minutes before close
+
+  SUUMER HOURS:
+
+  Open : 12 - 4 Monday - Wednesday 
+
+  Closed: Thursday - Sunday 
+
+  Closed Vacation: July 15 - 21,  August 12 - 18
+
+  REGULAR HOURS RESUME: AUGUST 19
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
