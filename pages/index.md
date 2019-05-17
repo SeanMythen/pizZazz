@@ -15,15 +15,15 @@ info: |-
 
   Last client taken 15 minutes before close
 hours: |-
-  | Day       | Hours            |
-  | --------- | ---------------- |
-  | Sunday    | Closed           |
-  | Monday    | 11 a.m. - 6 p.m. |
-  | Tuesday   | 11 a.m. - 6 p.m. |
-  | Wednesday | 11 a.m. - 6 p.m. |
-  | Thursday  | 11 a.m. - 6 p.m. |
-  | Friday    | 11 a.m. - 6 p.m. |
-  | Saturday  | Closed           |
+  | Day       | Hours               |
+  | --------- | ------------------- |
+  | Sunday    | Closed              |
+  | Monday    | 12 a.m. - 4 p.m.    |
+  | Tuesday   | By Appointment Only |
+  | Wednesday | 12 a.m. - 4 p.m.    |
+  | Thursday  | By Appointment Only |
+  | Friday    | 12 a.m. - 4 p.m.    |
+  | Saturday  | Closed              |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: Madlayn Tinsley
 stylist1description: >-
