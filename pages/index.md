@@ -18,11 +18,11 @@ hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
   | Sunday    | Closed           |
-  | Monday    | 12 a.m. - 4 p.m. |
+  | Monday    | 11 a.m. - 6 p.m. |
   | Tuesday   | Appointment      |
-  | Wednesday | 12 a.m. - 4 p.m. |
+  | Wednesday | 11 a.m. - 6 p.m. |
   | Thursday  | Appointment      |
-  | Friday    | 12 a.m. - 4 p.m. |
+  | Friday    | 11 a.m. - 6 p.m. |
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: Madlayn Tinsley
