@@ -19,9 +19,9 @@ hours: |-
   | --------- | ---------------- |
   | Sunday    | Closed           |
   | Monday    | 11 a.m. - 6 p.m. |
-  | Tuesday   | 11 a.m. - 6 p.m. |
+  | Tuesday   | Appointment      |
   | Wednesday | 11 a.m. - 6 p.m. |
-  | Thursday  | 11 a.m. - 6 p.m. |
+  | Thursday  | Appointment      |
   | Friday    | 11 a.m. - 6 p.m. |
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/Madlayn.jpg
