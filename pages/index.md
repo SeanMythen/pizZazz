@@ -8,21 +8,16 @@ cut2image: assets/cuts/2.jpg
 cut3image: assets/cuts/9.jpg
 cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
-info: |-
-  Walk-ins Welcome!
-
-  $15 Men's Cuts
-
-  Last client taken 15 minutes before close
+info: "Walk-ins Welcome!\n\n$15 Men's Cuts\n\nLast client taken 15 minutes before close\n\n\n\nSUMMER HOURS: Open : 12 - 4 Monday - Wednesday \r\n\nClosed: Thursday - Sunday \r\n\nClosed For Vacation: July 15 - 21 and August 12 - 18\r\n\nREGULAR HOURS RESUME: AUGUST 19"
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
   | Sunday    | Closed           |
-  | Monday    | 11 a.m. - 6 p.m. |
-  | Tuesday   | Appointment      |
-  | Wednesday | 11 a.m. - 6 p.m. |
-  | Thursday  | Appointment      |
-  | Friday    | 11 a.m. - 6 p.m. |
+  | Monday    | 12 a.m. - 4 p.m. |
+  | Tuesday   | 12 a.m. - 4 p.m. |
+  | Wednesday | 12 a.m. - 4 p.m. |
+  | Thursday  | Closed           |
+  | Friday    | Closed           |
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: Madlayn Tinsley
