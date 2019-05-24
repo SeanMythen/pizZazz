@@ -8,7 +8,20 @@ cut2image: assets/cuts/2.jpg
 cut3image: assets/cuts/9.jpg
 cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
-info: "Walk-ins Welcome!\n\n$15 Men's Cuts\n\nLast client taken 15 minutes before close\n\n\n\nSUMMER HOURS: Open : 12 - 4 Monday - Wednesday \r\n\nClosed: Thursday - Sunday \r\n\nClosed For Vacation: July 15 - 21 and August 12 - 18\r\n\nREGULAR HOURS RESUME: AUGUST 19"
+info: |-
+  Walk-ins Welcome!
+
+  $15 Men's Cuts
+
+  Last client taken 15 minutes before close
+
+  SUMMER HOURS: Open : 12 - 4 Monday - Wednesday 
+
+  Closed: Thursday - Sunday 
+
+  Closed For Vacation: July 15 - 21 and August 12 - 18
+
+  REGULAR HOURS RESUME: AUGUST 19th
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
