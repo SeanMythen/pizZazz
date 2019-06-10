@@ -19,8 +19,6 @@ info: |-
 
   Closed: Thursday - Sunday 
 
-  Closed For Vacation: July 15 - 21 and August 12 - 18
-
   REGULAR HOURS RESUME: AUGUST 19th
 hours: |-
   | Day       | Hours            |
