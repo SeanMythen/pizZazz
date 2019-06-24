@@ -8,7 +8,7 @@ cut2image: assets/cuts/2.jpg
 cut3image: assets/cuts/9.jpg
 cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
-promos: test
+promos: ''
 info: |-
   Walk-ins Welcome!
 
