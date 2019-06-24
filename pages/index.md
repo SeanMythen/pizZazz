@@ -8,7 +8,7 @@ cut2image: assets/cuts/2.jpg
 cut3image: assets/cuts/9.jpg
 cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
-promos: Test Promotion
+promos: ''
 info: |-
   Walk-ins Welcome!
 
@@ -19,11 +19,11 @@ hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
   | Sunday    | Closed           |
-  | Monday    | 11 a.m. - 6 p.m. |
-  | Tuesday   | 11 a.m. - 6 p.m. |
-  | Wednesday | 11 a.m. - 6 p.m. |
-  | Thursday  | 11 a.m. - 6 p.m. |
-  | Friday    | 11 a.m. - 6 p.m. |
+  | Monday    | 12 a.m. - 4 p.m. |
+  | Tuesday   | 12 a.m. - 4 p.m. |
+  | Wednesday | 12 a.m. - 4 p.m. |
+  | Thursday  | Closed           |
+  | Friday    | Closed           |
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: Madlayn Tinsley
