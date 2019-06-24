@@ -8,8 +8,6 @@ cut2image: assets/cuts/2.jpg
 cut3image: assets/cuts/9.jpg
 cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
-<<<<<<< HEAD
-promos:
 info: |-
   Walk-ins Welcome!
 
@@ -21,9 +19,9 @@ hours: |-
   | --------- | ---------------- |
   | Sunday    | Closed           |
   | Monday    | 11 a.m. - 6 p.m. |
-  | Tuesday   | Appointment      |
+  | Tuesday   | 11 a.m. - 6 p.m. |
   | Wednesday | 11 a.m. - 6 p.m. |
-  | Thursday  | Appointment      |
+  | Thursday  | 11 a.m. - 6 p.m. |
   | Friday    | 11 a.m. - 6 p.m. |
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/Madlayn.jpg

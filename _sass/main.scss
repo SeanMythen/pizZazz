@@ -265,7 +265,7 @@ main table {
  
 }
 
-#info, .promos{
+#info{
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   font-weight: 500;
@@ -402,11 +402,6 @@ p{
   min-height: 100vh;
 }
 
-p.promos{
-  padding-bottom: 0px;
-  color: #e65c00;
-}
-
 p.intro{
   padding-bottom: 0px;
 }
@@ -441,7 +436,7 @@ p.intro{
     height: 200px;
 
   }
-  #info, .promos{
+  #info{
     margin-bottom: 0;
   }
 
