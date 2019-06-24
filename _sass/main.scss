@@ -265,6 +265,10 @@ main table {
  
 }
 
+#promos{
+  color: #e65c00;
+}
+
 #info, #promos{
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
@@ -439,11 +443,6 @@ p.intro{
   #info, #promos{
     margin-bottom: 0;
   }
-
-  #promos p {
-    color: #e65c00;
-  }
-
 
   #stylists_container{
     width: 95%;
