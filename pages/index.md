@@ -10,8 +10,6 @@ cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 <<<<<<< HEAD
 promos:
-=======
->>>>>>> parent of f883927... Merge branch 'master' of https://github.com/SeanMythen/pizZazz
 info: |-
   Walk-ins Welcome!
 
