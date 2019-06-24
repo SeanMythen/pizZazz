@@ -8,28 +8,25 @@ cut2image: assets/cuts/2.jpg
 cut3image: assets/cuts/9.jpg
 cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
+<<<<<<< HEAD
 promos:
+=======
+>>>>>>> parent of f883927... Merge branch 'master' of https://github.com/SeanMythen/pizZazz
 info: |-
   Walk-ins Welcome!
 
   $15 Men's Cuts
 
   Last client taken 15 minutes before close
-
-  SUMMER HOURS: Open : 12 - 4 Monday - Wednesday 
-
-  Closed: Thursday - Sunday 
-
-  REGULAR HOURS RESUME: AUGUST 19th
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
   | Sunday    | Closed           |
-  | Monday    | 12 a.m. - 4 p.m. |
-  | Tuesday   | 12 a.m. - 4 p.m. |
-  | Wednesday | 12 a.m. - 4 p.m. |
-  | Thursday  | Closed           |
-  | Friday    | Closed           |
+  | Monday    | 11 a.m. - 6 p.m. |
+  | Tuesday   | Appointment      |
+  | Wednesday | 11 a.m. - 6 p.m. |
+  | Thursday  | Appointment      |
+  | Friday    | 11 a.m. - 6 p.m. |
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: Madlayn Tinsley
