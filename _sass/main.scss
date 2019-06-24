@@ -265,7 +265,7 @@ main table {
  
 }
 
-#info{
+#info, #promos{
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   font-weight: 500;
@@ -276,7 +276,7 @@ main table {
 }
 
 
-#info img {
+#info img, #promos img{
   min-width: 100px;
   max-width: 350px;
   border: 3px solid rgba(230,92,0,0.5);
@@ -436,8 +436,12 @@ p.intro{
     height: 200px;
 
   }
-  #info{
+  #info, #promos{
     margin-bottom: 0;
+  }
+
+  #promos{
+    color: #e65c00;
   }
 
 
