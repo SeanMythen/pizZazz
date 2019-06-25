@@ -1,8 +1,8 @@
 ---
-layout: gallery
+layout: home
 title: PizZazz
 permalink: /gallery
-section: gallery
+section: home
 gallery1image:
 gallery2image:
 gallery3image:
