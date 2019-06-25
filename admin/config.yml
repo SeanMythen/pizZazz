@@ -74,7 +74,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
+      - {label: "Section", name: "section", widget: "visible", default: "{{name}}"}      
       - {label: "Image 1", name: "gallery1image", widget: "image", required: false}
       - {label: "Image 2", name: "gallery2image", widget: "image", required: false}
       - {label: "Image 3", name: "gallery3image", widget: "image", required: false}
