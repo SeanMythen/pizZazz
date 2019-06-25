@@ -3,7 +3,7 @@ layout: gallery
 title: PizZazz Image Gallery
 permalink: /gallery
 section: home
-gallery1image:
+gallery1image: assets/cuts/2.jpg
 gallery2image:
 gallery3image:
 gallery4image:
