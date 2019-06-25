@@ -1,6 +1,6 @@
 ---
-layout: home
-title: PizZazz
+layout: gallery
+title: PizZazz Image Gallery
 permalink: /gallery
 section: home
 gallery1image:

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PizZazz
+title: PizZazz Home Page
 permalink: /
 section: home
 cut1image: assets/cuts/1.jpg
