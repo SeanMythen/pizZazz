@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<!-- <div id="social">
+  <a id="yelp" href="https://www.yelp.com/biz/pizzazz-champaign-2" target="_blank">
+    <i class="fab fa-yelp fa-2x"></i>
+  </a>
+  <a id="facebook" href="https://www.facebook.com/pizzazzchampaign/" target="_blank">
+    <i class="fab fa-facebook fa-2x"></i>
+  </a>
+</div> -->
+
+
+
+
 <div id="first_section">
 
 
@@ -21,7 +33,7 @@ layout: default
 
 <!-- Pictures cropped to 400x400px -->
 <div id="cuts_container">
-    {% include gallery1image.html %}
+    {% include cut1image.html %}
     {% include cut2image.html %}
     {% include cut3image.html %}
     {% include cut4image.html %}
@@ -34,7 +46,72 @@ layout: default
 </div>
 
 
+
+
+<!-- <div id="appointment_container"><a id="appointment_text" href="https://pizzazzchampaign.setmore.com/">Click Here To Schedule An Appointment!</a></div> -->
+
+<!-- <iframe src="https://pizzazz7548.setmore.com/" scrolling="no" width="100%" height="100%" frameborder="0"></iframe> -->
+
+{% include promos.html %}
+{% include info.html %}
+
+
+
+
+
+
+
+<div id="hours_map_container">
+
+<div id="map"></div>
+
+
+<!-- <h2>{{ page.title }}</h2> -->
+
+  {% include page-intro.html %}
+
+  {{ content }}
+
+  <!-- <section>
+
+    <h3>Recent posts from the blog</h3>
+
+    <ul>
+      {% for post in site.posts limit:3 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+
+  </section> -->
+
 </div>
 
+
+</div>
+
+
+
+
+<div id="stylists_container">
+
+    <div id="stylist_1">
+      {% include stylist1image.html %}
+        <div id="stylist_info_container">
+            {% include stylist1name.html %}
+            {% include stylist1description.html %}
+        </div>
+    </div>
+
+    <!-- <div id="stylist_2">
+        {% include stylist2image.html %}
+          <div id="stylist_info_container">
+              {% include stylist2name.html %}
+              {% include stylist2description.html %}
+          </div>
+      </div> -->
+
+  </div>
 
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
