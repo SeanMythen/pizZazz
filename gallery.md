@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: PizZazz Haircut Gallery
+title2: PizZazz Haircut Gallery
 permalink: /gallery
 section: gallery
 gallery1image: assets/cuts/2.jpg
