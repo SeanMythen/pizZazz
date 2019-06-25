@@ -71,10 +71,10 @@ collections: # A list of collections the CMS should be able to edit
     create: false
     slug: "{{slug}}"
     fields:
-      # - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      # - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      # - {label: "Permalink", name: "permalink", widget: "hidden"}
-      # - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Permalink", name: "permalink", widget: "hidden"}
+      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
       # - {label: "Body", name: "body", widget: "markdown",}
       # - {label: "Image 1", name: "cut1image", widget: "image"}
       # - {label: "Image 2", name: "cut2image", widget: "image"}
