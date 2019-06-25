@@ -84,7 +84,7 @@ collections: # A list of collections the CMS should be able to edit
       # - {label: "Promotions", name: "promos", widget: "string", required: false }
       # - {label: "Info", name: "info", widget: "markdown"}
       # - {label: "Hours", name: "hours", widget: "markdown"}
-      # - {label: "Sylist 1 Image *Image must be square*", name: "stylist1image", widget: "image"}
+      - {label: "Image Test", name: "imagetest", widget: "image"}
       # - {label: "Sylist 1 Name", name: "stylist1name", widget: "string"}
       # - {label: "Sylist 1 Description", name: "stylist1description", widget: "markdown"}
       # - {label: "Sylist 2 Image *Image must be square*", name: "stylist2image", widget: "image"}
