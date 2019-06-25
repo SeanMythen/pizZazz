@@ -61,6 +61,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Sylist 2 Name", name: "stylist2name", widget: "string"}
       - {label: "Sylist 2 Description", name: "stylist2description", widget: "markdown"}
 
+  - name: "gallery"
     label: "Haircut Gallery"
     delete: false
     editor:
