@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
   #     - {label: "Body", name: "body", widget: "markdown", required: false}
   #     - {label: "Categories", name: "categories", widget: "string", required: false}
     # PAGES
-  - name: "homepage"
+  - name: "page"
     label: "Home Page"
     delete: false
     editor:
@@ -61,7 +61,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Sylist 2 Name", name: "stylist2name", widget: "string"}
       - {label: "Sylist 2 Description", name: "stylist2description", widget: "markdown"}
 
-  - name: "gallery"
+  - name: "page"
     label: "Haircut Gallery"
     delete: false
     editor:
