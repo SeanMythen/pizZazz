@@ -61,7 +61,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Sylist 2 Name", name: "stylist2name", widget: "string"}
       - {label: "Sylist 2 Description", name: "stylist2description", widget: "markdown"}
 
-  - name: "page"
+  - name: "page2"
     label: "Haircut Gallery"
     delete: false
     editor:
@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
     create: false
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page2"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
