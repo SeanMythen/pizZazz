@@ -22,6 +22,6 @@ gallery16image: assets/cuts/2.jpg
 gallery17image: assets/cuts/2.jpg
 gallery18image: assets/cuts/2.jpg
 gallery19image: assets/cuts/2.jpg
-gallery20image: assets/cuts/2.jpg
+gallery20image: /assets/img/uploads/11.jpg
 ---
 
