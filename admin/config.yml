@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
   #     - {label: "Categories", name: "categories", widget: "string", required: false}
     # PAGES
   - name: "home" # used in routes, e.g. /admin/collections/home
-    label: "PiZzaz" # Used in the UI
+    label: "Home Page" # Used in the UI
     delete: false
     editor:
       preview: false
