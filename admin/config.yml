@@ -32,13 +32,13 @@ collections: # A list of collections the CMS should be able to edit
   #     - {label: "Categories", name: "categories", widget: "string", required: false}
     # PAGES
   - name: "page"
-    label: "Home Page"
+    label: "PiZzaz"
     delete: false
     editor:
       preview: false
     folder: "pages"
     sort: "title:asc"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
@@ -61,23 +61,23 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Sylist 2 Name", name: "stylist2name", widget: "string"}
       - {label: "Sylist 2 Description", name: "stylist2description", widget: "markdown"}
 
-  - name: "page"
-    label: "Haircut Gallery"
-    delete: false
-    editor:
-      preview: false
-    folder: "pages"
-    sort: "title:asc"
-    create: false
-    slug: "{{slug}}"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
-      - {label: "Image 1", name: "gallery1image", widget: "image", required: false}
-      - {label: "Image 2", name: "gallery2image", widget: "image", required: false}
-      - {label: "Image 3", name: "gallery3image", widget: "image", required: false}
-      - {label: "Image 4", name: "gallery4image", widget: "image", required: false}
-      - {label: "Image 5", name: "gallery5image", widget: "image", required: false}
+  # - name: "page"
+  #   label: "Haircut Gallery"
+  #   delete: false
+  #   editor:
+  #     preview: false
+  #   folder: "pages"
+  #   sort: "title:asc"
+  #   create: false
+  #   slug: "{{slug}}"
+  #   fields:
+  #     - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+  #     - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+  #     - {label: "Permalink", name: "permalink", widget: "hidden"}
+  #     - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}      
+  #     - {label: "Image 1", name: "gallery1image", widget: "image", required: false}
+  #     - {label: "Image 2", name: "gallery2image", widget: "image", required: false}
+  #     - {label: "Image 3", name: "gallery3image", widget: "image", required: false}
+  #     - {label: "Image 4", name: "gallery4image", widget: "image", required: false}
+  #     - {label: "Image 5", name: "gallery5image", widget: "image", required: false}
 
