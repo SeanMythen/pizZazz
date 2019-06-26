@@ -31,16 +31,16 @@ collections: # A list of collections the CMS should be able to edit
   #     - {label: "Body", name: "body", widget: "markdown", required: false}
   #     - {label: "Categories", name: "categories", widget: "string", required: false}
     # PAGES
-  - name: "page"
-    label: "PiZzaz"
+  - name: "home" # used in routes, e.g. /admin/collections/home
+    label: "PiZzaz" # Used in the UI
     delete: false
     editor:
       preview: false
-    folder: "pages"
+    folder: "mainpage" # The path to the folder where the documents are stored
     sort: "title:asc"
-    create: true
-    slug: "{{slug}}"
-    fields:
+    create: false # Don't allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
@@ -66,7 +66,7 @@ collections: # A list of collections the CMS should be able to edit
     delete: false
     editor:
       preview: false
-    folder: "pages"
+    folder: "gallerypage"
     sort: "title:asc"
     create: false
     slug: "{{slug}}"
