@@ -10,6 +10,8 @@ cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 promos: ''
 info: |-
+  **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
+
   Walk-ins Welcome!
 
   $15 Men's Cuts
@@ -18,7 +20,7 @@ info: |-
 
   **CLOSED: JULY 11th - JULY 21st, THURSDAY - SUNDAY**
 
-  ****
+  - - -
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
