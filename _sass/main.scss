@@ -211,7 +211,41 @@ h4{
   top: 10px;
 }
 
+#gallery_container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
 
+.galleryimg{
+  border: 3px solid rgba(230, 92, 0, .5);
+  width: 400px;
+  min-width: 200px;
+  border-radius: 6px;
+  margin:20px;
+
+}
+
+.linkToStyles a{
+  color: rgb(230, 92, 0);
+  cursor: pointer;
+  font-weight: 600;
+  transition: .1s;
+  font-size: 22.5px;
+}
+
+.linkToStyles a:hover{
+  color: rgb(230, 70, 0);
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.linkToStyles{
+  margin-top: 5px;
+}
 
 #cuts_container{
   margin-top: 30px;
@@ -411,7 +445,7 @@ p{
 
 
 #first_section{
-  min-height: 100vh;
+  min-height: 100%;
 }
 
 p.intro{
