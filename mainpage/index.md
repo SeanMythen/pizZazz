@@ -19,8 +19,6 @@ info: |-
   Last client taken 15 minutes before close
 
   **CLOSED: JULY 11th - JULY 21st, THURSDAY - SUNDAY**
-
-  - - -
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
