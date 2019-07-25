@@ -21,9 +21,9 @@ hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
   | Sunday    | Closed           |
-  | Monday    | 12 a.m. - 4 p.m. |
-  | Tuesday   | 12 a.m. - 4 p.m. |
-  | Wednesday | 12 a.m. - 4 p.m. |
+  | Monday    | 12 p.m. - 4 p.m. |
+  | Tuesday   | 12 p.m.-  4 p.m. |
+  | Wednesday | 12 p.m. - 4 p.m. |
   | Thursday  | Closed           |
   | Friday    | Closed           |
   | Saturday  | Closed           |
