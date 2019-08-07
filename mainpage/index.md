@@ -18,7 +18,7 @@ info: |-
 
   Walk-ins Welcome!
 
-  $15 Men's Cuts
+  $17 Men's Cuts
 
   Last client taken 15 minutes before close
 hours: |-
