@@ -10,6 +10,10 @@ cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 promos: ''
 info: |-
+  **CLOSED NOW THROUGH AUGUST 18TH**
+
+  **REGULAR HOURS RESUME: MONDAY AUGUST 19TH**
+
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
 
   Walk-ins Welcome!
