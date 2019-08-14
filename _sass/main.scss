@@ -399,6 +399,14 @@ p{
   align-items: center;
 }
 
+#stylist_3{  
+  width: 85%;  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
 #stylist_image{
   // margin-bottom: 10px;
   border-radius: 50%;
@@ -499,6 +507,14 @@ p.intro{
   }
   
   #stylist_2{  
+    width: 100%;  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #stylist_3{  
     width: 100%;  
     display: flex;
     flex-direction: column;
