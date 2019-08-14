@@ -40,14 +40,14 @@ stylist1description: >-
   affordable prices.  In 2012 PizZazz's doors opened to the public and, since
   then, has been providing an environment and atmosphere that is welcoming to
   people of all nationalities.
-stylist2image: /assets/img/uploads/hero.jpeg
+stylist2image: /assets/img/uploads/Madlayn.jpg
 stylist2name: Kim Turner
 stylist2description: >-
   I was raised in Centrial Illinois. I have lived in Champaign for 31 years. I
   have dedicated 25 years of service to the hair industry. I enjoy doing hair. I
   started with Pizzazz in the fall of 2018. I find Pizzazz to be a place of
   love, life, and an entertaining atmosphere.
-stylist3image: /assets/img/uploads/hero.jpeg
+stylist3image: /assets/img/uploads/Madlayn.jpg
 stylist3name: Sherri
 stylist3description: >-
   Bio coming soon!
