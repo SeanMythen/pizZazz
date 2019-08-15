@@ -10,7 +10,7 @@ cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 promos: ''
 info: |-
-  **CLOSED NOW THROUGH AUGUST 18TH**
+  **CLOSED NOW THROUGH AUGUST 19TH**
 
   **REGULAR HOURS RESUME: 11 - 6 TUESDAY AUGUST 20TH**
 
@@ -32,7 +32,7 @@ hours: |-
   | Friday    | 11 a.m. - 6 p.m. |
   | Saturday  | Closed           |
 stylist1image: /assets/img/uploads/Madlayn.jpg
-stylist1name: Madlayn Tinsley
+stylist1name: 'Madlayn '
 stylist1description: >-
   I have been a hairstylist for more than 20 years.  I'm very passionate about
   what I do and I enjoy meeting new people.  I've always had a desire to open a
@@ -41,7 +41,7 @@ stylist1description: >-
   then, has been providing an environment and atmosphere that is welcoming to
   people of all nationalities.
 stylist2image: /assets/img/uploads/Madlayn.jpg
-stylist2name: Kim Turner
+stylist2name: Kim
 stylist2description: >-
   I was raised in Centrial Illinois. I have lived in Champaign for 31 years. I
   have dedicated 25 years of service to the hair industry. I enjoy doing hair. I
@@ -49,7 +49,6 @@ stylist2description: >-
   love, life, and an entertaining atmosphere.
 stylist3image: /assets/img/uploads/Madlayn.jpg
 stylist3name: Sherri
-stylist3description: >-
-  Bio coming soon!
+stylist3description: Bio coming soon!
 ---
 
