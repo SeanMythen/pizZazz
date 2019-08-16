@@ -7,5 +7,10 @@ gallery1image: /assets/img/uploads/10.jpg
 gallery2image: /assets/img/uploads/11.jpg
 gallery3image: /assets/img/uploads/12.jpg
 gallery4image: /assets/img/uploads/5.jpg
+gallery5image: /assets/img/uploads/img_4545.jpg
+gallery6image: /assets/img/uploads/img_0489.jpg
+gallery7image: /assets/img/uploads/img_0694.jpg
+gallery8image: /assets/img/uploads/img_1288.jpg
+gallery9image: /assets/img/uploads/img_1819.jpeg
 ---
 
