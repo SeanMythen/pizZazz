@@ -49,6 +49,10 @@ stylist2description: >-
   love, life, and an entertaining atmosphere.
 stylist3image: /assets/img/uploads/Madlayn.jpg
 stylist3name: Sherri
-stylist3description: Bio coming soon!
+stylist3description: >-
+  I was born and raised on Southside of Chicago. I earned my Cosmetology License
+  in 2010. I have a true love for my craft. I get to help others feel great
+  about themselves. At PizZazz were here to give you an enjoyable and satisfying
+  experience.
 ---
 
