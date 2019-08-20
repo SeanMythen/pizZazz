@@ -9,16 +9,22 @@ cut3image: assets/cuts/9.jpg
 cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 promos: ''
-info: |-
+info: >-
   **WELCOME BACK STUDENTS!!!!!**
 
-  **TUESDAY - WEDNESDAY SPECIAL w/ SHERRI $14.00 HAIRCUT (NEW CLIENTS ONLY)!!!**
+
+  **PROMOTION: $14.00 Men’s haircut 11:30 - 3:30 TUESDAY - WEDNESDAY (NEW
+  CLIENTS ONLY)!!!**
+
 
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
 
+
   Walk-ins Welcome!
 
+
   $17 Men's Cuts
+
 
   Last client taken 15 minutes before close
 hours: |-
