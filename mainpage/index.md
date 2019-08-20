@@ -10,11 +10,7 @@ cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 promos: ''
 info: |-
-  **CLOSED NOW THROUGH AUGUST 19TH**
-
   **WELCOME BACK STUDENTS!!!!!**
-
-  **REGULAR HOURS RESUME: 11 - 6 TUESDAY AUGUST 20TH**
 
   **TUESDAY - WEDNESDAY SPECIAL w/ SHERRI $14.00 HAIRCUT (NEW CLIENTS ONLY)!!!**
 
