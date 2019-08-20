@@ -13,7 +13,7 @@ info: >-
   **WELCOME BACK STUDENTS!!!!!**
 
 
-  **PROMOTION 14.00 Men’s haircut $14.00  11:30 - 3:30 TUESDAY - WEDNESDAY (NEW
+  **PROMOTION: $14.00 Men’s haircut 11:30 - 3:30 TUESDAY - WEDNESDAY (NEW
   CLIENTS ONLY)!!!**
 
 
