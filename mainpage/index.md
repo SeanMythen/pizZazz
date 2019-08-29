@@ -13,8 +13,11 @@ info: >-
   **WELCOME BACK STUDENTS!!!!!**
 
 
-  **PROMOTION: $14.00 Men’s haircut 11:30 - 3:30 TUESDAY - WEDNESDAY (NEW
-  CLIENTS ONLY)!!!**
+  **PROMOTION: $14.00 Men’s haircut 11:30 - 3:30 MONDAY, TUESDAY & WEDNESDAY w/
+  SHERRI** 
+
+
+  **(NEW CLIENTS ONLY)!!!**
 
 
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
