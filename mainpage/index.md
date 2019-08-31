@@ -13,8 +13,8 @@ info: >-
   **WELCOME BACK STUDENTS!!!!!**
 
 
-  **PROMOTION: $14.00 Men’s haircut 11:30 - 3:30 MONDAY, TUESDAY & WEDNESDAY w/
-  SHERRI** 
+  **PROMOTION: $14.00 Men’s haircut 11:30 - 3:30 MONDAY, TUESDAY,  WEDNESDAY  &
+  FRIDAY w/ SHERRI** 
 
 
   **(NEW CLIENTS ONLY)!!!**
