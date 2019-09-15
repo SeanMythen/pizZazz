@@ -29,7 +29,7 @@ info: >-
   $17 Men's Cuts
 
 
-  Last client taken 15 minutes before close
+  Last client taken 15 minutes before close.
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
