@@ -33,6 +33,9 @@ info: >-
 
 
   <span style="color:red">Test</span>.
+
+
+  <mark>Marked text</mark>
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
