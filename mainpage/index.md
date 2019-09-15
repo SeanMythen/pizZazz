@@ -30,12 +30,6 @@ info: >-
 
 
   Last client taken 15 minutes before close
-
-
-  <span style="color:red">Red Text</span>.
-
-
-  <mark>Marked text</mark>
 hours: |-
   | Day       | Hours            |
   | --------- | ---------------- |
