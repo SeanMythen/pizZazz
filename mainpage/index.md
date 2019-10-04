@@ -39,10 +39,10 @@ stylist1description: >-
 stylist2image: /assets/img/uploads/Madlayn.jpg
 stylist2name: Sherri
 stylist2description: >-
-  I was raised in Centrial Illinois. I have lived in Champaign for 31 years. I
-  have dedicated 25 years of service to the hair industry. I enjoy doing hair. I
-  started with Pizzazz in the fall of 2018. I find Pizzazz to be a place of
-  love, life, and an entertaining atmosphere.
+  I was raised on Southside of Chicago. I earned my Cosmetologist License in
+  2010. I have a true love for my craft. I get help others feel great about
+  themselves. At PizZazz we are here to give you an enjoyable and satifying
+  experience
 stylist3image: /assets/img/uploads/Madlayn.jpg
 stylist3name: Sherri
 stylist3description: >-
