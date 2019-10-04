@@ -37,7 +37,7 @@ stylist1description: >-
   then, has been providing an environment and atmosphere that is welcoming to
   people of all nationalities.
 stylist2image: /assets/img/uploads/Madlayn.jpg
-stylist2name: Kim
+stylist2name: Sherri
 stylist2description: >-
   I was raised in Centrial Illinois. I have lived in Champaign for 31 years. I
   have dedicated 25 years of service to the hair industry. I enjoy doing hair. I
