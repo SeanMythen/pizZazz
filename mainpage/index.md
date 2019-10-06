@@ -45,9 +45,6 @@ stylist2description: >-
   experience
 stylist3image: /assets/img/uploads/Madlayn.jpg
 stylist3name: N/A
-stylist3description: |-
-  Open: Monday - Friday: 11 - 5: last client 15 minutes before close!
-
-  \
+stylist3description: 'Open: Monday - Friday: 11 - 5: last client 15 minutes before close!'
 ---
 
