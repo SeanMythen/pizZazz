@@ -44,11 +44,10 @@ stylist2description: >-
   themselves. At PizZazz we are here to give you an enjoyable and satifying
   experience
 stylist3image: /assets/img/uploads/Madlayn.jpg
-stylist3name: Sherri
-stylist3description: >-
-  I was born and raised on Southside of Chicago. I earned my Cosmetology License
-  in 2010. I have a true love for my craft. I get to help others feel great
-  about themselves. At PizZazz were here to give you an enjoyable and satisfying
-  experience.
+stylist3name: N/A
+stylist3description: |-
+  Open: Monday - Friday: 11 - 5: last client 15 minutes before close!
+
+  \
 ---
 
