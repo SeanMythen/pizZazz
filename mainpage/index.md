@@ -10,6 +10,8 @@ cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 promos: ''
 info: |-
+  **\*\*CLOSED: THANKSGIVING WEEK: NOVEMBER 25-29 MONDAY-FRIDAY\*\***
+
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
 
   Walk-ins Welcome!!
