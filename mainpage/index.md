@@ -16,11 +16,11 @@ info: |-
 
   **CLOSED: NEW YEAR DAY - JANUARY 1 2020**
 
-  **OPEN: 12-4 MONDAY - TUESDAY      DECEMBER 30 -31**
+  **OPEN: 12-4 MONDAY - TUESDAY      DECEMBER    30 -31**
 
-  \    **WEDNESDAY - FRIDAY    JANUARY     2 - 3**
+  **OPEN: 12-4  WEDNESDAY - FRIDAY    JANUARY     2 - 3**
 
-  \    **8 - 10**
+  **OPEN:  12-4 WEDNESDAY - FRIDAY    JANUARY     8 - 10**
 
   **\*REGULAR HOURS RESUME\***
 
