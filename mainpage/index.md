@@ -10,7 +10,23 @@ cut4image: assets/cuts/4.jpg
 cut5image: assets/cuts/8.jpg
 promos: ''
 info: |-
-  **\*\*CLOSED: THANKSGIVING WEEK: NOVEMBER 25-29 MONDAY-FRIDAY\*\***
+  **\*WINTER BREAK HOURS\***
+
+  **CLOSED: CHRISTMAS WEEK - DECEMBER 23 - DECEMBER 27 2019**
+
+  **CLOSED: NEW YEAR DAY - JANUARY 1 2020**
+
+  **OPEN: 12-4 MONDAY - TUESDAY      DECEMBER 30 -31**
+
+  \    **WEDNESDAY - FRIDAY    JANUARY     2 - 3**
+
+  \    **8 - 10**
+
+  **\*REGULAR HOURS RESUME\***
+
+  **11 - 5 MONDAY - FRIDAY JANUARY 13 2020**                    
+
+  ****
 
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
 
