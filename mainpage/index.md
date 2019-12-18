@@ -22,9 +22,11 @@ info: |-
 
   **OPEN:  12-4 WEDNESDAY - FRIDAY    JANUARY     8 - 10**
 
+  ****
+
   **\*REGULAR HOURS RESUME\***
 
-  **11 - 5 MONDAY - FRIDAY JANUARY 13 2020**                    
+  **OPEN:  11-5 MONDAY - FRIDAY JANUARY 13 2020**                    
 
   - - -
 
