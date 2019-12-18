@@ -26,7 +26,7 @@ info: |-
 
   **11 - 5 MONDAY - FRIDAY JANUARY 13 2020**                    
 
-  ****
+  - - -
 
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
 
