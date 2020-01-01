@@ -18,8 +18,6 @@ info: |-
 
   **OPEN: 12-4  MONDAY - TUESDAY      DECEMBER    30 -31**
 
-  **OPEN: 12-4  THURSDAY - FRIDAY    JANUARY     2 - 3**
-
   **OPEN:  12-4  WEDNESDAY - FRIDAY    JANUARY     8 - 10**
 
   - - -
