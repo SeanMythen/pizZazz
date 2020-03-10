@@ -3,11 +3,11 @@ layout: home
 title: PizZazz Home Page
 permalink: /
 section: home
-cut1image: assets/cuts/1.jpg
-cut2image: assets/cuts/2.jpg
-cut3image: assets/cuts/9.jpg
-cut4image: assets/cuts/4.jpg
-cut5image: assets/cuts/8.jpg
+cut1image: /assets/img/uploads/10.jpg
+cut2image: /assets/img/uploads/12.jpg
+cut3image: /assets/img/uploads/3.jpg
+cut4image: /assets/img/uploads/11.jpg
+cut5image: /assets/img/uploads/thumbnail-1-.jpeg
 promos: ''
 info: |-
 
@@ -49,4 +49,3 @@ stylist3image: /assets/img/uploads/Madlayn.jpg
 stylist3name: N/A
 stylist3description: 'Open: Monday - Friday: 11 - 5: last client 15 minutes before close!'
 ---
-
