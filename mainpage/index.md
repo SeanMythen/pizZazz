@@ -16,6 +16,8 @@ info: |-
 
   **Thanks for your understanding**
 
+  **BE SAFE & BLESSED!**
+
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
 
   Walk-ins Welcome!!
