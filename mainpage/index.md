@@ -12,7 +12,7 @@ promos: ''
 info: |-
   **\*DUE to the CORONAVIRUS\*:**
 
-  **HOURS: 11-3 MONDAY-WESNESDAY indefinitely..**
+  **HOURS: 11-3 MONDAY-WESNESDAY, INDEFINITELY..**
 
   **Thanks for your understanding**
 
