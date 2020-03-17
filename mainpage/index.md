@@ -10,7 +10,11 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/thumbnail-1-.jpeg
 promos: ''
 info: |-
-  **SPRINGBREAK HOURS: MONDAY-WEDNESDAY 11-5; THURSDAY-FRIDAY 11-3**
+  **\*DUE to the CORONAVIRUS\*:**
+
+  **HOURS: 11-3 MONDAY-WESNESDAY, INDEFINITELY..**
+
+  **Thanks for your understanding**
 
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
 
