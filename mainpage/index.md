@@ -10,9 +10,9 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/thumbnail-1-.jpeg
 promos: ''
 info: |-
-  **\*DUE to the CORONAVIRUS\*:**
+  **\*DUE to the CORONAVIRUS\***
 
-  **HOURS: 11-3 MONDAY-WESNESDAY, INDEFINITELY..**
+  **\*CLOSED til APRIL 6th\*** 
 
   **Thanks for your understanding**
 
