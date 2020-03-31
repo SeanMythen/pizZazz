@@ -12,7 +12,7 @@ promos: ''
 info: |-
   **\*DUE to the CORONAVIRUS\***
 
-  **\*CLOSED til APRIL 6th\*** 
+  **\*CLOSED INDEFINITELY\*** 
 
   **Thanks for your understanding**
 
