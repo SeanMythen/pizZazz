@@ -20,7 +20,7 @@ info: |-
 
   **BE SAFE & BLESSED!**
 
-  **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES!!!**
+  **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
 
   $17 Men's Cuts
 hours: |-
