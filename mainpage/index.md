@@ -42,11 +42,8 @@ stylist1description: I have been a hairstylist for more than 20 years.  I'm very
   and, since then, has been providing an environment and atmosphere that is
   welcoming to people of all nationalities.
 stylist2image: /assets/img/uploads/Madlayn.jpg
-stylist2name: Sherri
-stylist2description: I was raised on Southside of Chicago. I earned my
-  Cosmetologist License in 2010. I have a true love for my craft. I get help
-  others feel great about themselves. At PizZazz we are here to give you an
-  enjoyable and satifying experience
+stylist2name: N/A
+stylist2description: N/A
 stylist3image: /assets/img/uploads/Madlayn.jpg
 stylist3name: N/A
 stylist3description: "Open: Monday - Friday: 11 - 5: last client 15 minutes before close!"
