@@ -10,13 +10,13 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/thumbnail-1-.jpeg
 promos: ""
 info: |-
-  **OPENING FRIDAY MAY 29th  11-4  TEXTS (217)721-9724 BY APPTS. ONLY!!**
+  **OPENING MONDAY JUNE 1st 11am-4pm  TEXTS (217)721-9724 BY APPTS. ONLY!!**
 
   **MASK WORN!!**
 
   **SUMMER HOURS:** 
 
-  **MONDAY - THURSDAY 11-4**
+  **MONDAY - THURSDAY 11am-4pm**
 
   **BE SAFE & BLESSED!**
 
