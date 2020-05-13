@@ -44,7 +44,7 @@ stylist1description: I have been a hairstylist for more than 20 years.  I'm very
 stylist2image: /assets/img/uploads/Madlayn.jpg
 stylist2name: N/A
 stylist2description: N/A
-stylist3image: /assets/img/uploads/Madlayn.jpg
-stylist3name: N/A
-stylist3description: N/A
+stylist3image: ""
+stylist3name: ""
+stylist3description: ""
 ---
