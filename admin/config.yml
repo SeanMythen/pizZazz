@@ -52,7 +52,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image 4", name: "cut4image", widget: "image"}
       - {label: "Image 5", name: "cut5image", widget: "image"}
       - {label: "Promotions (Orange Text)", name: "promos", widget: "string", required: false }
-      - {label: "Info", name: "info", widget: "markdown"}
+      - {label: "Important Info (Red Text)", name: "importantinfo", widget: "markdown"}
+      - {label: "Info (Black Text)", name: "info", widget: "markdown"}      
       - {label: "Hours", name: "hours", widget: "markdown"}
       - {label: "Sylist 1 Image *Image must be square*", name: "stylist1image", widget: "image"}
       - {label: "Sylist 1 Name", name: "stylist1name", widget: "string"}

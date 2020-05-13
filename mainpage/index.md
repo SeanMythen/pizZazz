@@ -9,6 +9,20 @@ cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
+importantinfo: |-
+  **OPENING MONDAY JUNE 1st 11am-4pm  TEXTS (217)721-9724 BY APPTS. ONLY!!**
+
+  **MASK WORN!!**
+
+  **SUMMER HOURS:** 
+
+  **MONDAY - THURSDAY 11am-4pm**
+
+  **BE SAFE & BLESSED!**
+
+  **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
+
+  $17 Men's Cuts
 info: |-
   **OPENING MONDAY JUNE 1st 11am-4pm  TEXTS (217)721-9724 BY APPTS. ONLY!!**
 
