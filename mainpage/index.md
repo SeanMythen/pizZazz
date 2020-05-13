@@ -41,9 +41,9 @@ stylist1description: I have been a hairstylist for more than 20 years.  I'm very
   staff with affordable prices.  In 2012 PizZazz's doors opened to the public
   and, since then, has been providing an environment and atmosphere that is
   welcoming to people of all nationalities.
-stylist2image: /assets/img/uploads/Madlayn.jpg
-stylist2name: N/A
-stylist2description: N/A
+stylist2image: ""
+stylist2name: ""
+stylist2description: ""
 stylist3image: ""
 stylist3name: ""
 stylist3description: ""
