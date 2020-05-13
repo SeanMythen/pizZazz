@@ -311,7 +311,7 @@ main table {
   padding-bottom: 0px;
 }
 
-#info{
+#info, #info2{
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   font-weight: 500;
@@ -333,7 +333,7 @@ main table {
 }
 
 
-#info img, #promos img{
+#info img, #promos img, #info2 img,{
   min-width: 100px;
   max-width: 350px;
   border: 3px solid rgba(230,92,0,0.5);
@@ -502,7 +502,7 @@ p.intro{
     height: 200px;
 
   }
-  #info, #promos{
+  #info, #promos, #info2{
     margin-bottom: 0;
   }
 
