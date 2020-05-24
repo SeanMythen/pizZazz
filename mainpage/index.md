@@ -9,7 +9,10 @@ cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
-info: "**OPENING MONDAY JUNE 1st 11am-4pm   BY APPTS. ONLY!!**"
+info: |-
+  **OPENING MONDAY JUNE 1st 11am-4pm**  
+
+   **BY APPTS. ONLY!!**
 importantinfo: |-
   **MASK WORN!!**
 
