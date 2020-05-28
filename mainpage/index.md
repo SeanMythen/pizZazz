@@ -18,7 +18,7 @@ importantinfo: |-
 
   **SUMMER HOURS:** 
 
-  **MONDAY - THURSDAY 11am-4pm**
+  **MONDAY - WEDNESDAY,  FRIDAY   11am-4pm**
 
   **BE SAFE & BLESSED!**
 info2: |-
