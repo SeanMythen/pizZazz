@@ -18,7 +18,16 @@ importantinfo: |-
 
   **SUMMER HOURS:** 
 
-  **MONDAY - WEDNESDAY,  FRIDAY   11am-4pm**
+  **NEW SUMMER HOURS: STARTING** 
+
+  **JULY 6TH:  MONDAY - WEDNESDAY  11am - 4pm**
+
+  **BY APPT. ONLY!!!** 
+
+  **MASK WORN!!!**
+
+  \
+  **CLOSED : VACATION: JULY 19-21: FRIDAY-TUESDAY**
 
   **BE SAFE & BLESSED!**
 info2: |-
