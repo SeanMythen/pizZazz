@@ -20,6 +20,9 @@ importantinfo: |-
 
   **MONDAY - WEDNESDAY,  FRIDAY   11am-4pm**
 
+  \
+  **CLOSED : VACATION: FRIDAY-TUESDAY: JULY 19-21:**  
+
   **BE SAFE & BLESSED!**
 info2: |-
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
