@@ -11,13 +11,12 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **MASK WORN!!**
+  **NEW SUMMER HOURS: STARTING JULY 6TH**\
+  **MONDAY - WEDNESDAY: 11 - 4**
 
   **BY APPT. ONLY!!**
 
-  **NEW SUMMER HOURS: STARTING: JULY 6TH**
-
-  **MONDAY - WEDNESDAY  11am - 4pm**
+  **MASK MUST BE WORN!!**
 
   \
   **CLOSED : VACATION: JULY 19-21: FRIDAY-TUESDAY**
