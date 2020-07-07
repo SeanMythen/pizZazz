@@ -12,7 +12,7 @@ promos: ""
 info: ""
 importantinfo: |-
   **NEW SUMMER HOURS: STARTING JULY 6TH**\
-  **MONDAY - WEDNESDAY: 11 - 4**
+  **MONDAY - WEDNESDAY: 11 - 3**
 
   **BY APPT. ONLY!!**
 
