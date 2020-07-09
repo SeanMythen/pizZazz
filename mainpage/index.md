@@ -19,7 +19,7 @@ importantinfo: |-
   **MASK MUST BE WORN!!**
 
   \
-  **CLOSED : VACATION: JULY 19-21: FRIDAY-TUESDAY**
+  **CLOSED : VACATION: JULY 16-27**
 
   **BE SAFE & BLESSED!**
 info2: |-
