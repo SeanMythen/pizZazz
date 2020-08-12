@@ -13,7 +13,7 @@ info: ""
 importantinfo: |-
   **FALL HOURS:**
 
-   **AUGUST 17-DECEMBER 1ST**
+   **AUGUST 17- DECEMBER 1ST**
 
   **11 - 5**
 
