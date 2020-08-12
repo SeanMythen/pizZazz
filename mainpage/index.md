@@ -11,15 +11,17 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **NEW SUMMER HOURS: STARTING JULY 6TH**\
-  **MONDAY - WEDNESDAY: 11 - 3**
+  **FALL HOURS:**
 
-  **BY APPT. ONLY!!**
+   **AUGUST 17- DECEMBER 1ST**
+
+  **11 - 5**
+
+  **MONDAY - FRIDAY**
+
+  **BOOK YOUR APPT. TODAY!!**
 
   **MASK MUST BE WORN!!**
-
-  \
-  **CLOSED : VACATION: JULY 16-27**
 
   **BE SAFE & BLESSED!**
 info2: |-
