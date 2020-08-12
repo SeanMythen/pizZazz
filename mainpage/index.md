@@ -11,7 +11,9 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **FALL HOURS: AUGUST 17-DECEMBER 1ST**
+  **FALL HOURS:**
+
+   **AUGUST 17-DECEMBER 1ST**
 
   **11 - 5**
 
@@ -20,8 +22,6 @@ importantinfo: |-
   **BOOK YOUR APPT. TODAY!!**
 
   **MASK MUST BE WORN!!**
-
-
 
   **BE SAFE & BLESSED!**
 info2: |-
