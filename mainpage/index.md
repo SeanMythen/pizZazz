@@ -25,7 +25,9 @@ importantinfo: |-
 
   **JANUARY 18th**
 
-  **MONDAY - FRIDAY**
+  **11:00-5:00 MONDAY - FRIDAY::** 
+
+
 
   **BE SAFE & BLESSED!**
 info2: |-
