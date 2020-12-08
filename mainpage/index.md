@@ -11,17 +11,21 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **FALL HOURS:**
+  **HOLIDAYS BREAK HOURS:**
 
-   **AUGUST 17- DECEMBER 1ST**
+  **DECEMBER 6th - JANUARY 15th:  11:00-3:30** 
 
-  **11 - 5**
-
-  **MONDAY - FRIDAY**
+  **MONDAY -WEDNESDAY**
 
   **BOOK YOUR APPT. TODAY!!**
 
   **MASK MUST BE WORN!!**
+
+  **REGULAR HOURS RESUME::**
+
+  **JANUARY 18th**
+
+  **MONDAY - FRIDAY**
 
   **BE SAFE & BLESSED!**
 info2: |-
