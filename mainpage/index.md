@@ -19,7 +19,7 @@ importantinfo: |-
 
   **MONDAY - FRIDAY**
 
-  **BOOK YOUR APPT. TODAY!!**
+  **BY APPT. ONLY**
 
   **MASK MUST BE WORN!!**
 
