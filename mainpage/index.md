@@ -11,39 +11,33 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **HOLIDAYS BREAK HOURS:**
+  **CLOSED thru JANUARY 18TH**
 
-  **DECEMBER 6th - JANUARY 15th:  11:00-3:30** 
+  **REOPEN: TUESDAY JANUARY 19th**
 
-  **MONDAY -WEDNESDAY**
+  **HOURS: 10:30 a.m. - 5:30 p.m.**
+
+  **MONDAY - FRIDAY**
 
   **BOOK YOUR APPT. TODAY!!**
 
   **MASK MUST BE WORN!!**
 
-  **REGULAR HOURS RESUME::**
-
-  **JANUARY 18th**
-
-  **11:00-5:00 MONDAY - FRIDAY::** 
-
-
-
   **BE SAFE & BLESSED!**
 info2: |-
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
 
-  **$17 Men's Cuts**
+  **$18 Men's Cuts**
 hours: |-
-  | Day       | Hours            |
-  | --------- | ---------------- |
-  | Sunday    | Closed           |
-  | Monday    | 11 a.m. - 5 p.m. |
-  | Tuesday   | 11 a.m.-  5 p.m. |
-  | Wednesday | 11 a.m. - 5 p.m. |
-  | Thursday  | 11 a.m. - 5 p.m. |
-  | Friday    | 11 a.m. - 5 p.m. |
-  | Saturday  | Closed           |
+  | Day       | Hours                  |
+  | --------- | ---------------------- |
+  | Sunday    | Closed                 |
+  | Monday    | 10:30 a.m. - 5:30 p.m. |
+  | Tuesday   | 10:30 a.m.-  5:30 p.m. |
+  | Wednesday | 10:30 a.m. - 5:30 p.m. |
+  | Thursday  | 10:30 a.m. - 5:30 p.m. |
+  | Friday    | 10:30a.m. - 5:30 p.m.  |
+  | Saturday  | Closed                 |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
 stylist1description: I have been a hairstylist for more than 20 years.  I'm very
