@@ -11,10 +11,6 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **CLOSED thru JANUARY 18TH**
-
-  **REOPEN: TUESDAY JANUARY 19th**
-
   **HOURS: 10:30 a.m. - 5:30 p.m.**
 
   **MONDAY - FRIDAY**
