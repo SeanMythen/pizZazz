@@ -347,7 +347,7 @@ main table {
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     width: 950px;
     margin-left: auto;
     margin-right: auto;
@@ -495,8 +495,11 @@ p.intro{
     justify-content: space-between;
     align-items: center;
     width: 95%;
-    height:560px;
   }
+#hours_map_container #map {
+	margin-top: 20px;
+	}
+	
   #map iframe {
     width: 575px;
     height: 200px;
