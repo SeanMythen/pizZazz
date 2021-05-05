@@ -20,6 +20,10 @@ importantinfo: |-
   **MASK MUST BE WORN!!**
 
   **BE SAFE & BLESSED!**
+
+  **CLOSED STARTING:**
+
+  **TUESDAY MAY 25 - MONDAY JULY 12 2021**
 info2: |-
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
 
