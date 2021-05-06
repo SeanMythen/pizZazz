@@ -11,7 +11,7 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **HOURS: 10:30 a.m. - 5:30 p.m.**
+  **CLOSEDHOURS: 10:30 a.m. - 5:30 p.m.**
 
   **MONDAY - FRIDAY**
 
