@@ -11,7 +11,7 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: ""
 importantinfo: |-
-  **HOURS: 10:30 a.m. - 5:30 p.m.**
+  **CLOSEDHOURS: 10:30 a.m. - 5:30 p.m.**
 
   **MONDAY - FRIDAY**
 
@@ -20,10 +20,6 @@ importantinfo: |-
   **MASK MUST BE WORN!!**
 
   **BE SAFE & BLESSED!**
-
-  **CLOSED STARTING:**
-
-  **TUESDAY MAY 25 - MONDAY JULY 12 2021**
 info2: |-
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
 
