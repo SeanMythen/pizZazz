@@ -16,9 +16,11 @@ info: |-
 
   **TUESDAY MAY 25 - JULY 11 2021**
 
-  **SUMMER HOURS REOPEN:**
+  **REOPEN SUMMER HOURS:** 
 
-  **MONDAY - WEDNESDAY 11 - 4**
+  **JULY 12** 
+
+  **MONDAY - WEDNESDAY 11am - 4pm**
 importantinfo: |-
   **HOURS: 10:30 a.m. - 5:30 p.m.**
 
