@@ -20,7 +20,7 @@ info: |-
 
   **MONDAY - WEDNESDAY 11 - 4**
 importantinfo: |-
-  **CLOSEDHOURS: 10:30 a.m. - 5:30 p.m.**
+  **HOURS: 10:30 a.m. - 5:30 p.m.**
 
   **MONDAY - FRIDAY**
 
