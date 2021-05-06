@@ -10,7 +10,7 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **CONGRATULATIONS to ALL  2021**
+  **CONGRATULATIONS to ALL GRADUATE   2021**
 
   **CLOSED:**
 
