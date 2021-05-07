@@ -14,11 +14,11 @@ info: |-
 
   **CLOSED:**
 
-  **TUESDAY MAY 25 - JULY 11 2021**
+  **TUESDAY MAY 25 - AUGUST 3 2021**
 
-  **REOPEN SUMMER HOURS:** 
+  **REOPEN SUMMER HOURS:** **COMING SOON**
 
-  **JULY 12** 
+
 
   **MONDAY - WEDNESDAY 11am - 4pm**
 importantinfo: |-
