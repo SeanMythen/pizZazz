@@ -17,10 +17,6 @@ info: |-
   **TUESDAY MAY 25 - AUGUST 3 2021**
 
   **REOPEN SUMMER HOURS:** **COMING SOON**
-
-
-
-  **MONDAY - WEDNESDAY 11am - 4pm**
 importantinfo: |-
   **HOURS: 10:30 a.m. - 5:30 p.m.**
 
