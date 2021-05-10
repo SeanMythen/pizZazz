@@ -14,7 +14,7 @@ info: |-
 
   **CLOSED:**
 
-  **TUESDAY MAY 25 - AUGUST 3 2021**
+  **TUESDAY MAY 20 - AUGUST 3 2021**
 
   **REOPEN SUMMER HOURS:** **COMING SOON**
 importantinfo: |-
