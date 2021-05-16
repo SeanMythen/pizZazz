@@ -18,7 +18,7 @@ info: |-
 
   **REOPEN SUMMER HOURS:** **COMING SOON**
 
-  **MONDAY - Wednesday 11-4...**
+  **Monday - Wednesday 11-4...**
 importantinfo: |-
   **HOURS: 10:30 a.m. - 5:30 p.m.**
 
