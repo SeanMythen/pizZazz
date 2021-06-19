@@ -22,12 +22,11 @@ info: |-
 
   **Mask must be worn until further notice…**
 
+  **$18 Mens Cuts**
+
   **PARKING: NORTHSIDE BLUE SPACES**
 importantinfo: ""
-info2: |-
-  **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
-
-  **$18 Men's Cuts**
+info2: ""
 hours: |-
   | Day       | Hours                  |
   | --------- | ---------------------- |
