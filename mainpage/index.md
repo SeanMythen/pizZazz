@@ -24,7 +24,7 @@ info: |-
 
   **$18 Mens Cuts**
 
-  **PARKING: NORTHSIDE BLUE SPACES**
+  **PARKING: NORTHSIDE BLUE SPACES...**
 importantinfo: ""
 info2: ""
 hours: |-
