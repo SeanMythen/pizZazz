@@ -21,6 +21,8 @@ info: |-
   **By Appt. Only**
 
   **Mask must be worn until further notice…**
+
+  **PARKING: NORTHSIDE BLUE SPACES**
 importantinfo: ""
 info2: |-
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
