@@ -10,25 +10,18 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **CONGRATULATIONS to ALL GRADUATE   2021**
+  **Salon Officially Closed..**
 
-  **CLOSED:**
+  **REOPEN: MONDAY AUGUST 16th**
 
-  **TUESDAY MAY 20 - AUGUST 3 2021**
+  **REGULAR HOURS: MONDAY - FRIDAY**
 
-  **REOPEN SUMMER HOURS:** **COMING SOON**
+   **10:30am - 5pm**
 
-  **Monday - Wednesday 11-4**
-importantinfo: |-
-  **HOURS: 10:30 a.m. - 5:30 p.m.**
+  **By Appt. Only**
 
-  **MONDAY - FRIDAY**
-
-  **BY APPT. ONLY**
-
-  **MASK MUST BE WORN!!**
-
-  **BE SAFE & BLESSED!**
+  **Mask must be worn until further notice…**
+importantinfo: ""
 info2: |-
   **\* PIZZAZZ PARKING \* NORTHSIDE - BLUE SPACES*!!!**
 
