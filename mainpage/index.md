@@ -25,16 +25,20 @@ info: |-
   **$18 Mens Cuts**
 
   **PARKING: NORTHSIDE BLUE SPACES...**
-importantinfo: |-
-  You may visit Sherri Figures former employee before Covid-19.. 
+importantinfo: >-
+  **You may visit Sherri Figures former employee before Covid-19..** 
 
-  She is willing to service my clients doing my absence.. She is really good..
 
-  She is located at  Smartstyle Salon inside Walmart, Savoy ..
+  **She is willing to service my clients doing my absence.. She is really good..**
 
-  You may also make appt..Thanks so much for your understanding..
 
-  See you soon!!
+  **She is located at  Smartstyle Salon inside Walmart, Savoy ..**
+
+
+  **You may also make appt..Thanks so much for your understanding..**
+
+
+  **See you soon!!**
 info2: ""
 hours: |-
   | Day       | Hours                  |
