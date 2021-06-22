@@ -35,7 +35,10 @@ importantinfo: >-
   **She is located at  Smartstyle Salon inside Walmart, Savoy ..**
 
 
-  **You may also make appt..Thanks so much for your understanding..**
+  **You may also make appt..** 
+
+
+  **Thanks so much for your understanding..**
 
 
   **See you soon!!**
