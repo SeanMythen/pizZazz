@@ -16,7 +16,7 @@ info: |-
 
   **REGULAR HOURS: MONDAY - FRIDAY**
 
-   **10:30am - 5pm**
+   **10:30am - 5:30pm**
 
   **By Appt. Only**
 
@@ -61,7 +61,7 @@ stylist1description: I have been a hairstylist for more than 20 years.  I'm very
   staff with affordable prices.  In 2012 PizZazz's doors opened to the public
   and, since then, has been providing an environment and atmosphere that is
   welcoming to people of all nationalities.
-stylist2image: ""
+stylist2image: null
 stylist2name: ""
 stylist2description: ""
 stylist3image: ""
