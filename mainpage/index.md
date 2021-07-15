@@ -60,10 +60,13 @@ stylist1description: I have been a hairstylist for more than 20 years.  I'm very
   desire to open a Barber Shop on campus that could accommodate students and
   staff with affordable prices.  In 2012 PizZazz's doors opened to the public
   and, since then, has been providing an environment and atmosphere that is
-  welcoming to people of all nationalities.
+  welcoming to people of all
+  nationalities.blob:https://pizzazzchampaign.com/2d3e7a74-51c4-44ed-a2d0-1fa7c7f3c2ad
 stylist2image: null
-stylist2name: ""
-stylist2description: ""
+stylist2name: Keith
+stylist2description: I have been a Cosmetologist since 1995. I love doing hair
+  and meeting people from near and far.  i am excited to get back to campus
+  where I first started in my career.
 stylist3image: ""
 stylist3name: ""
 stylist3description: ""
