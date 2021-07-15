@@ -3,8 +3,8 @@ layout: home
 title: PizZazz Home Page
 permalink: /
 section: home
-cut1image: /assets/img/uploads/10.jpg
-cut2image: /assets/img/uploads/12.jpg
+cut1image: /assets/img/uploads/6.jpg
+cut2image: /assets/img/uploads/7.jpg
 cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
