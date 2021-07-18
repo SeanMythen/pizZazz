@@ -3,7 +3,7 @@ layout: home
 title: PizZazz Home Page
 permalink: /
 section: home
-cut1image: /assets/img/uploads/img_0929.jpg
+cut1image: /assets/img/uploads/6.jpg
 cut2image: /assets/img/uploads/7.jpg
 cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
@@ -61,7 +61,7 @@ stylist1description: I have been a hairstylist for more than 20 years.  I'm very
   staff with affordable prices.  In 2012 PizZazz's doors opened to the public
   and, since then, has been providing an environment and atmosphere that is
   welcoming to people of all nationalities.
-stylist2image: null
+stylist2image: /assets/img/uploads/Madlayn.jpg
 stylist2name: Keith
 stylist2description: I am happy to come on board with Madlayn at Pizzazz. I am
   excited to get back to campus where i first started my career. I have been a
