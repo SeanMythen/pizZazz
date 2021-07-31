@@ -10,21 +10,31 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **Salon Officially Closed..**
+  **WELCOME BACK STUDENTS!!**
 
-  **REOPEN: MONDAY AUGUST 16th**
+  **PIZZAZZ REOPEN:**
 
-  **REGULAR HOURS: MONDAY - FRIDAY**
+  **MONDAY AUGUST 16th  - 20th CASH ONLY!!** 
 
-   **10:30am - 5:30pm**
+  **August 23rd - CHARGES will be ACCEPTED!!**
 
-  **By Appt. Only**
+  **Please help Pizzazz welcome Keith Motton**
 
-  **Mask must be worn until further notice…**
+  **Madlayn  hours: Monday - Friday**  
 
-  **$18 Mens Cuts**
+   **\    10:30 - 5:30  By Appt. Only**
 
-  **PARKING: NORTHSIDE BLUE SPACES...**
+  **Keith       hours: Monday, Tuesday  - Thursday, Friday**
+
+   **\    11:00-  5:30   By Appt. Only**
+
+  **WALK INS         5:30 -  7:00 LAST CLIENT  TAKEN 6:45**
+
+  **MASK MUST BE WORN until further notice!!**
+
+   **\    $18.00 Mens Haircuts**
+
+  **PARKING NORTHSIDE: BLUE SPACES!!**
 importantinfo: >-
   **You may visit Sherri Figures former employee before Covid-19..** 
 
