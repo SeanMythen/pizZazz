@@ -22,13 +22,13 @@ info: |-
 
   **MADLAYN hours: Monday - Friday**  
 
-     ** 10:30 - 5:30  BY APPTS. ONLY!!**
+      **10:30 - 5:30  BY APPTS. ONLY!!**
 
   **MASK MUST BE WORN!!**
 
-      **$18.00 Mens Haircuts**
+  **\*18.00 Mens Haircut**
 
-  **PARKING NORTHSIDE: BLUE SPACES!!**
+  **PARKING NORTHSIDE: BLUE SPACES..**
 importantinfo: >-
   **You may visit Sherri Figures former employee before Covid-19..** 
 
