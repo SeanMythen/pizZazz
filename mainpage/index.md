@@ -14,25 +14,27 @@ info: |-
 
   **PIZZAZZ REOPEN:**
 
+  **WELCOME BACK STUDENTS!!**
+
+  **PIZZAZZ IS NOW EXCEPTING WALK-INS!!**
+
   **MONDAY AUGUST 16th  - 20th CASH ONLY!!** 
 
   **August 23rd - CHARGES will be ACCEPTED!!**
 
   **Please help Pizzazz welcome Keith Motton**
 
-  **Madlayn  hours: Monday - Friday**  
+  **Madlayn hours: Monday - Friday**  
 
-   **\    10:30 - 5:30  By Appt. Only**
+   **   10:30 - 5:30  By Appt. Only**
 
-  **Keith       hours: Monday, Tuesday  - Thursday, Friday**
+  **Keith hours: Monday, Tuesday  - Thursday, Friday**
 
-   **\    11:00-  5:30   By Appt. Only**
-
-  **WALK INS         5:30 -  7:00 LAST CLIENT  TAKEN 6:45**
+    **  11:00-  5:00 WALK-INS!!**
 
   **MASK MUST BE WORN until further notice!!**
 
-   **\    $18.00 Mens Haircuts**
+    **  $18.00 Mens Haircuts**
 
   **PARKING NORTHSIDE: BLUE SPACES!!**
 importantinfo: >-
