@@ -12,9 +12,11 @@ promos: ""
 info: |-
   **WELCOME BACK!!**
 
-  **PIzZAZZ RE-OPENING: Aug 16th**
+  **PizZAZZ RE-OPENING: Aug 16th**
 
   **WALK-INS: 11:00- 5:30 w/Keith Motton: LAST CLIENT 5:15**
+
+  **MON, TUES, THUR, FRI**
 
   **MONDAY AUGUST 16th  - 20th CASH ONLY!!** 
 
