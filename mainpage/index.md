@@ -14,38 +14,22 @@ info: |-
 
   **PIZZAZZ RE-OPENING: Aug 16th**
 
-  **WALK-INS: 11:00- 5:30 w/Keith Motton last client 5:15**
+  **WALK-INS: 11:00- 5:30 w/Keith Motton: LAST CLIENT 5:15**
 
   **MONDAY AUGUST 16th  - 20th CASH ONLY!!** 
 
   **August 23rd - CHARGES and CASH will be ACCEPTED!!**
 
-  **MADLAYN hours: Monday - Friday**  
+  **MADLAYN hours: Monday - Friday** 
 
-      **10:30 - 5:30  BY APPTS. ONLY!!**
+  **10:30 - 5:30 BY APPT. ONLY!!**
 
   **MASK MUST BE WORN!!**
 
   **\*18.00 Mens Haircut**
 
   **PARKING NORTHSIDE: BLUE SPACES..**
-importantinfo: >-
-  **You may visit Sherri Figures former employee before Covid-19..** 
-
-
-  **She is willing to service my clients doing my absence.. She is really good..**
-
-
-  **She is located at  Smartstyle Salon inside Walmart, Savoy ..**
-
-
-  **You may also make appt..** 
-
-
-  **Thanks so much for your understanding..**
-
-
-  **See you soon!!**
+importantinfo: ""
 info2: ""
 hours: |-
   | Day       | Hours                  |
