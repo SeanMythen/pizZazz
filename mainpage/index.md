@@ -14,7 +14,7 @@ info: |-
 
   **PizZAZZ RE-OPENING: Aug 16th**
 
-  **WALK-INS: 11:00- 5:30 w/Keith Motton: LAST CLIENT 5:15**
+  **WALK-INS: 11:00- 5:30 w/Keith Motton: CASH ONLY!!   LAST CLIENT 5:15**
 
   **MON, TUES, THUR, FRI**
 
