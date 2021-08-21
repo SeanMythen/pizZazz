@@ -12,19 +12,13 @@ promos: ""
 info: |-
   **WELCOME BACK!!**
 
-  **PizZAZZ RE-OPENING: Aug 16th**
+  **WALK-INS:**
 
-  **WALK-INS: 11:00- 5:30 w/Keith Motton: CASH ONLY!!   LAST CLIENT 5:15**
+  **KEITH MOTTON MONDAY - FRIDAY 11:00- 5:30 CASH ONLY!!   LAST CLIENT 5:15**
 
-  **MON, TUES, THUR, FRI**
+  **BY APPT. ONLY!!** 
 
-  **MONDAY AUGUST 16th  - 20th CASH ONLY!!** 
-
-  **August 23rd - CHARGES and CASH will be ACCEPTED!!**
-
-  **MADLAYN hours: Monday - Friday** 
-
-  **10:30 - 5:30 BY APPT. ONLY!!**
+  **MADLAYN  MONDAY - FRIDAY  10:30- 5:30 HOURS: CASH & CHARGE EXCEPTED!!**
 
   **MASK MUST BE WORN!!**
 
