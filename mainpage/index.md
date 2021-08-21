@@ -9,26 +9,21 @@ cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
-info: |-
+info: >-
   **WELCOME BACK!!**
 
-  **PizZAZZ RE-OPENING: Aug 16th**
 
-  **WALK-INS: 11:00- 5:30 w/Keith Motton: CASH ONLY!!   LAST CLIENT 5:15**
+  **WALK-INS:   MONDAY - FRIDAY 11:00- 5:30 w/KEITH MOTTON:  CASH ONLY!!   LAST CLIENT 5:1**
 
-  **MON, TUES, THUR, FRI**
 
-  **MONDAY AUGUST 16th  - 20th CASH ONLY!!** 
+  **MADLAYN HOURS:  MONDAY - FRIDAY 10:30 - 5:30: BY APPT. ONLY!!  CASH & CHARGE EXCEPTED!!**
 
-  **August 23rd - CHARGES and CASH will be ACCEPTED!!**
-
-  **MADLAYN hours: Monday - Friday** 
-
-  **10:30 - 5:30 BY APPT. ONLY!!**
 
   **MASK MUST BE WORN!!**
 
+
   **$18.00 Mens Haircut**
+
 
   **PARKING NORTHSIDE: BLUE SPACES..**
 importantinfo: ""
