@@ -9,20 +9,21 @@ cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
-info: |-
+info: >-
   **WELCOME BACK!!**
 
-  **WALK-INS:**
 
-  **KEITH MOTTON:  MONDAY - FRIDAY 11:00- 5:30 CASH ONLY!!   LAST CLIENT 5:15**
+  **MADLAYN: BY APPT. ONLY!! 10:30- 5:30:  MONDAY - FRIDAY: CASH & CHARGE EXCEPTED!!**
 
-  **BY APPT. ONLY!!** 
 
-  **MADLAYN:   MONDAY - FRIDAY  10:30- 5:30 HOURS: CASH & CHARGE EXCEPTED!!**
+  **KEITH MOTTON: WALK - INS:  MONDAY - FRIDAY 11:00- 5:30 CASH ONLY!!   LAST CLIENT 5:15**
+
 
   **MASK MUST BE WORN!!**
 
+
   **$18.00 Mens Haircut**
+
 
   **PARKING NORTHSIDE: BLUE SPACES..**
 importantinfo: ""
