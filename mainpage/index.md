@@ -17,7 +17,7 @@ info: |-
    11:00- 5:00:  MONDAY - FRIDAY**
 
   **KEITH MOTTON:
-  (217)417-7067:
+   (217)417-7067:
    WALk-INS ONLY!!: 
    MONDAY - FRIDAY** 
 
