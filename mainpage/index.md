@@ -14,7 +14,7 @@ info: |-
 
   **MADLAYN:
    BY APPT. ONLY!!
-   10:30- 5:30:  MONDAY - FRIDAY**
+   11:00- 5:00:  MONDAY - FRIDAY**
 
   **KEITH MOTTON:
   (217)417-7067:
@@ -36,11 +36,11 @@ hours: |-
   | Day       | Hours                  |
   | --------- | ---------------------- |
   | Sunday    | Closed                 |
-  | Monday    | 10:30 a.m. - 5:30 p.m. |
-  | Tuesday   | 10:30 a.m.-  5:30 p.m. |
-  | Wednesday | 10:30 a.m. - 5:30 p.m. |
-  | Thursday  | 10:30 a.m. - 5:30 p.m. |
-  | Friday    | 10:30a.m. - 5:30 p.m.  |
+  | Monday    | 11;00 a.m. - 5:30 p.m. |
+  | Tuesday   | 11:00 a.m.-  5:30 p.m. |
+  | Wednesday | 11:00 a.m. - 5:30 p.m. |
+  | Thursday  | 11:00 a.m. - 5:30 p.m. |
+  | Friday    | 11:00 a.m. - 5:30 p.m.  |
   | Saturday  | Closed                 |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
