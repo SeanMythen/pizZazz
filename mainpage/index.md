@@ -10,17 +10,22 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  
   **MADLAYN
    BY APPT. ONLY!!
    11:00- 5:00:  MONDAY - FRIDAY**
 
-   WALK-INS!!  
-   MONDAY - FRIDAY** 
+  **MADLAYN:**
+
+  **BY APPT ONLY!!**
+
+  **MONDAY - FRIDAY: 11am-5pm**
+
+  **WALK-INS:**\
+  **MONDAY - FRIDAY**
   **11:00- 5:30: LAST CLIENT 5:15**
 
-  CASH & CHARGE EXCEPTED !!!
-  NO AMERICAN EXPRESS!!
+  **CASH & CHARGE EXCEPTED !!!
+  NO AMERICAN EXPRESS!!**
 
   **MASK MUST BE WORN!!**
 
