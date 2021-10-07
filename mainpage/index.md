@@ -11,7 +11,7 @@ cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
   
-  **MADLAYN:
+  **MADLAYN
    BY APPT. ONLY!!
    11:00- 5:00:  MONDAY - FRIDAY**
 
