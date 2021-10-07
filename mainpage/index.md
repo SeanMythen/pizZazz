@@ -15,7 +15,7 @@ info: |-
    BY APPT. ONLY!!
    11:00- 5:00:  MONDAY - FRIDAY**
 
-   WALk-INS  
+   WALK-INS!!  
    MONDAY - FRIDAY** 
   **11:00- 5:30: LAST CLIENT 5:15**
 
