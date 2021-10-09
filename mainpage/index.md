@@ -10,7 +10,7 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  MADLAYN
+  **MADLAYN**
 
   BY APPT. ONLY!! 
 
@@ -18,19 +18,19 @@ info: |-
 
    11:00 - 5:00
 
-  WALK - INS !!  
+  **WALK - INS!!**  
 
   MONDAY - FRIDAY 
 
   11:00 - 5:30
 
-  LAST CLIENT 5:15
+  **LAST CLIENT 5:15**
 
   CASH & CARD ACCEPTED!!!
 
-  NO AMERICA EXPRESS!!
+  **NO AMERICA EXPRESS!!**
 
-  MASK MUST BE WORN!!
+  **MASK MUST BE WORN!!**
 
   $18.00 MENS HAIRCUT
 
