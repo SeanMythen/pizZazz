@@ -10,15 +10,19 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  HOMECOMING SPECIAL: $3.00 OFF WALK-INS OCT.5th TUES - OCT.6th WED.!!!
+  MADLAYN: BY APPT. ONLY!! 
 
-  MADLAYN: BY APPT. ONLY!! MONDAY - FRIDAY 11:00- 5:00
+  MONDAY - FRIDAY 11:00 - 5:00
 
-  KEITH MOTTON: (217)417-7067: WALK-INS ONLY!! MONDAY - FRIDAY 11:00-5:30
+  WALK-INS ONLY!! 
+
+  MONDAY - FRIDAY 11:00 - 5:30
 
   LAST CLIENT 5:15
 
   CASH & CARD ACCEPTED!!!
+
+  NO AMERICA EXPRESS!!
 
   MASK MUST BE WORN!!
 
