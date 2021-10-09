@@ -10,13 +10,19 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  MADLAYN: BY APPT. ONLY!! 
+  MADLAYN
 
-  MONDAY - FRIDAY 11:00 - 5:00
+  BY APPT. ONLY!! 
+
+  MONDAY - FRIDAY
+
+   11:00 - 5:00
 
   WALK-INS ONLY!! 
 
-  MONDAY - FRIDAY 11:00 - 5:30
+  MONDAY - FRIDAY 
+
+  11:00 - 5:30
 
   LAST CLIENT 5:15
 
