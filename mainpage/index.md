@@ -41,11 +41,11 @@ hours: |-
   | Day       | Hours                  |
   | --------- | ---------------------- |
   | Sunday    | Closed                 |
-  | Monday    | 11;00 a.m. - 5:30 p.m. |
+  | Monday    | 11:00 a.m. - 5:30 p.m. |
   | Tuesday   | 11:00 a.m.-  5:30 p.m. |
   | Wednesday | 11:00 a.m. - 5:30 p.m. |
   | Thursday  | 11:00 a.m. - 5:30 p.m. |
-  | Friday    | 11:00 a.m. - 5:30 p.m.  |
+  | Friday    | 11:00 a.m. - 5:30 p.m. |
   | Saturday  | Closed                 |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
