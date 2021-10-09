@@ -18,7 +18,7 @@ info: |-
 
    11:00 - 5:00
 
-  WALK - INS  
+  WALK - INS !!  
 
   MONDAY - FRIDAY 
 
