@@ -10,6 +10,8 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
+  **$3:00 OFF SPECIAL!! OCT. 18th - OCT. 22th !!!!**
+
   **MADLAYN**
 
   BY APPT. ONLY!! 
