@@ -14,7 +14,9 @@ info: |-
 
   **HAIRCUT SPECIAL!!**
 
-   ** 1st TIME CLIENTS ONLY!!**  
+  **WALK _ INS** 
+
+    **1st TIME CLIENTS ONLY!!**  
 
   **OCT. 18th - OCT. 22th !!!!**
 
