@@ -9,12 +9,16 @@ cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
-info: |-
-  **$3:00 OFF SPECIAL!! OCT. 18th - OCT. 22th !!!!**
+info: >-
+  **$3:00 OFF HAIRCUT SPECIAL!!  1st TIME CLIENTS ONLY!!  OCT. 18th - OCT. 22th
+  !!!!**
+
 
   **MADLAYN**
 
+
   BY APPT. ONLY!! 
+
 
   MONDAY - FRIDAY
 
@@ -22,19 +26,27 @@ info: |-
 
   **WALK - INS!!**  
 
+
   MONDAY - FRIDAY 
+
 
   11:00 - 5:30
 
+
   **LAST CLIENT 5:15**
+
 
   CASH & CARD ACCEPTED!!!
 
+
   **NO AMERICA EXPRESS!!**
+
 
   **MASK MUST BE WORN!!**
 
+
   $18.00 MENS HAIRCUT
+
 
   PARKING NORTHSIDE: BLUE SPACES
 importantinfo: ""
