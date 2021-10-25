@@ -14,31 +14,29 @@ info: |-
 
   **HAIRCUT SPECIAL!!**
 
-  **WALK _ INS** 
+  **WEDNESDAY**
+
+  **WALK - INS** 
+
+  **11:00 - 5:30**
+
+  **MONDAY - FRIDAY**
+
+   **LAST CLIENT 5:15**
 
     **1st TIME CLIENTS ONLY!!**  
 
-  **OCT. 18th - OCT. 22th !!!!**
-
   **MADLAYN**
 
-  BY APPT. ONLY!! 
+  **BY APPT. ONLY!!** 
 
-  MONDAY - FRIDAY
+  **MONDAY - FRIDAY**
 
-   11:00 - 5:00
+   **11:00 - 5:00**
 
-  **WALK - INS!!**  
+  **CASH & CARD ACCEPTED!!!**
 
-  MONDAY - FRIDAY 
-
-  11:00 - 5:30
-
-  **LAST CLIENT 5:15**
-
-  CASH & CARD ACCEPTED!!!
-
-  **NO AMERICA EXPRESS!!**
+  **NO AMERICA EXPRESS!!** 
 
   **MASK MUST BE WORN!!**
 
