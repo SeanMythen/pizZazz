@@ -10,21 +10,13 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **$3:00 OFF** 
-
-  **HAIRCUT SPECIAL!!**
-
-  **WEDNESDAY**
-
-  **WALK - INS** 
-
-  **11:00 - 5:30**
+  **WALK - INS**
 
   **MONDAY - FRIDAY**
 
-   **LAST CLIENT 5:15**
+  **11:00 - 5:30** 
 
-    **1st TIME CLIENTS ONLY!!**  
+  **LAST CLIENT 5:15!!**
 
   **MADLAYN**
 
@@ -40,9 +32,9 @@ info: |-
 
   **MASK MUST BE WORN!!**
 
-  $18.00 MENS HAIRCUT
+  **$18.00 MENS HAIRCUT**
 
-  PARKING NORTHSIDE: BLUE SPACES
+  **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
 info2: ""
 hours: |-
