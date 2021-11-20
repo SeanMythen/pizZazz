@@ -42,7 +42,7 @@ hours: |-
   | --------- | ---------------------- |
   | Sunday    | Closed                 |
   | Monday    | 11:00 a.m. - 5:00 p.m. |
-  | Tuesday   | 11:00 a.m.-  5:00p.m.  |
+  | Tuesday   | 11:00 a.m.-  5:00 p.m. |
   | Wednesday | 11:00 a.m. - 5:00 p.m. |
   | Thursday  | 11:00 a.m. - 5:00 p.m. |
   | Friday    | 11:00 a.m. - 5:00 p.m. |
