@@ -16,7 +16,7 @@ info: |-
 
   **OPEN 11-3**
 
-  **MONDAY-WEDNESDAY & FRIDAY**
+  **TUESDAY, WEDNESDAY & FRIDAY**
 
   **MADLAYN**
 
