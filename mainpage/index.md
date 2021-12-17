@@ -12,7 +12,7 @@ promos: ""
 info: |-
   **\*WINTER BREAK OPENINGS\*** 
 
-  **APPOINTMENTS & WALK INS WELCOME**
+  **APPOINTMENTS & WALK INS WELCOME !!!**
 
   **DEC.  MONDAY 20 & TUESDAY 21**
 
