@@ -58,11 +58,8 @@ stylist1description: I have been a hairstylist for more than 20 years.  I'm very
   since then, has been providing an environment and atmosphere that is welcoming
   to people of all nationalities.
 stylist2image: /assets/img/uploads/Madlayn.jpg
-stylist2name: Keith
-stylist2description: I am happy to come on board with Madlayn at PizZazz. I am
-  excited to get back to campus where I first started my career. I have been a
-  Cosmetologist since 1995. I love doing hair and meeting people from near and
-  far.
+stylist2name: ""
+stylist2description: ""
 stylist3image: ""
 stylist3name: ""
 stylist3description: ""
