@@ -24,7 +24,9 @@ info: |-
 
   **REGULAR HOURS RESUME JANUARY 17**
 
-  **MONDAY - FRIDAY** **11:00 - 5:00**
+  **MONDAY - FRIDAY** 
+
+  **11:00 - 5:00**
 
   **CASH & CARD ACCEPTED!!!**
 
