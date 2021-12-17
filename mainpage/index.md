@@ -10,17 +10,20 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **THANKSGIVING WEEK**
+  **\*WINTER BREAK OPENINGS\*** 
 
-  **WALK INS WELCOME!!**
+  **APPOINTMENT & WALK INS WELCOME**
 
-  **OPEN 11-3**
+  \
+  **DEC.  MONDAY 20 & TUESDAY 21**
 
-  **TUESDAY, WEDNESDAY & FRIDAY**
+   **11am -3pm**
 
-  **MADLAYN**
+  **DEC.  THURSDAY 30 & FRIDAY 31**
 
-  **BY APPT. ONLY!!** 
+  **11am- 3pm**
+
+
 
   **MONDAY - FRIDAY**
 
