@@ -26,7 +26,7 @@ info: |-
 
   **MONDAY - FRIDAY** 
 
-  **11:00 - 5:00**
+  **11:00am - 5:00pm**
 
   **CASH & CARD ACCEPTED!!!**
 
