@@ -12,9 +12,8 @@ promos: ""
 info: |-
   **\*WINTER BREAK OPENINGS\*** 
 
-  **APPOINTMENT & WALK INS WELCOME**
+  **APPOINTMENTS & WALK INS WELCOME**
 
-  \
   **DEC.  MONDAY 20 & TUESDAY 21**
 
    **11am -3pm**
@@ -23,11 +22,9 @@ info: |-
 
   **11am- 3pm**
 
+  **REGULAR HOURS RESUME JANUARY 17**
 
-
-  **MONDAY - FRIDAY**
-
-   **11:00 - 5:00**
+  **MONDAY - FRIDAY** **11:00 - 5:00**
 
   **CASH & CARD ACCEPTED!!!**
 
