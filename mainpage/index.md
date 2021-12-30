@@ -12,16 +12,6 @@ promos: ""
 info: |-
   **\*WINTER BREAK OPENINGS\*** 
 
-  **APPOINTMENTS & WALK INS WELCOME !!!**
-
-  **DEC.  MONDAY 20 & TUESDAY 21**
-
-   **11am -3pm**
-
-  **DEC.  THURSDAY 30 & FRIDAY 31**
-
-  **11am- 3pm**
-
   **REGULAR HOURS RESUME JANUARY 17**
 
   **MONDAY - FRIDAY** 
