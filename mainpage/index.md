@@ -10,19 +10,9 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **\*WINTER BREAK OPENINGS\*** 
+  **\*WINTER BREAK OPENS** 
 
-  **APPOINTMENTS & WALK INS WELCOME !!!**
-
-  **DEC.  MONDAY 20 & TUESDAY 21**
-
-   **11am -3pm**
-
-  **DEC.  THURSDAY 30 & FRIDAY 31**
-
-  **11am- 3pm**
-
-  **REGULAR HOURS RESUME JANUARY 17**
+  **MONDAY JANUARY 17: BY APPT. ONLY!!!**
 
   **MONDAY - FRIDAY** 
 
