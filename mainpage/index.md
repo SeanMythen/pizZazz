@@ -10,9 +10,9 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **\*WINTER BREAK OPENINGS\*** 
+  **\*WINTER BREAK OPENS** 
 
-  **REGULAR HOURS RESUME JANUARY 17**
+  **MONDAY JANUARY 17**
 
   **MONDAY - FRIDAY** 
 
