@@ -12,7 +12,7 @@ promos: ""
 info: |-
   **\*WINTER BREAK OPENS** 
 
-  **MONDAY JANUARY 17**
+  **MONDAY JANUARY 17: BY APPT. ONLY!!!**
 
   **MONDAY - FRIDAY** 
 
