@@ -10,11 +10,7 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **\*WINTER BREAK OPENS** 
-
-  **MONDAY JANUARY 17**
-
-  **BY APPT. ONLY!!!**
+  
 
   **MONDAY - FRIDAY** 
 
@@ -22,11 +18,9 @@ info: |-
 
   **CASH & CARD ACCEPTED!!!**
 
-  **NO AMERICA EXPRESS!!** 
+  **NO AMERICA EXPRESS!!**
 
-  **MASK MUST BE WORN!!**
-
-  **$18.00 MENS HAIRCUT**
+  **AS OF APRIL 1st PRICE WILL INCREASED TO $22.00 MENS HAIRCUT**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
