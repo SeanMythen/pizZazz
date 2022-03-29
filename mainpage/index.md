@@ -10,8 +10,6 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  
-
   **MONDAY - FRIDAY** 
 
   **11:00am - 5:00pm**
@@ -20,7 +18,7 @@ info: |-
 
   **NO AMERICA EXPRESS!!**
 
-  **AS OF APRIL 1st PRICE WILL INCREASED TO $22.00 MENS HAIRCUT**
+  **AS OF APRIL 1st  NEW PRICE $22.00 MENS HAIRCUT**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
