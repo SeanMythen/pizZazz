@@ -14,7 +14,7 @@ info: |-
 
   **11:00am - 5:00pm**
 
-  **CASH & CARD ACCEPTED!!!**
+  **CASH, ZELLE & CARD ACCEPTED!!!**
 
   **NO AMERICA EXPRESS!!**
 
