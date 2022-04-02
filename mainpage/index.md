@@ -18,11 +18,11 @@ info: |-
 
   **NO AMERICA EXPRESS!!**
 
-  **AS OF APRIL 1st  NEW PRICE $20.00 MENS HAIRCUT**
+  **$20.00 MEN HAIRCUTS**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
-info2: ""
+info2: "1."
 hours: |-
   | Day       | Hours                  |
   | --------- | ---------------------- |
