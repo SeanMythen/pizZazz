@@ -21,6 +21,8 @@ info: |-
   **$20.00 MEN HAIRCUTS**
 
   **PARKING NORTHSIDE: BLUE SPACES**
+
+  **SUMMER HOURS STARTS MONDAY MAY 16TH - ENDS FRIDAY AUGUST MAY 12TH 2022**
 importantinfo: ""
 info2: "1."
 hours: |-
