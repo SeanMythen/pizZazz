@@ -9,20 +9,26 @@ cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
-info: |-
+info: >-
   **MONDAY - FRIDAY** 
+
 
   **11:00am - 5:00pm**
 
+
   **CASH, ZELLE & CARD ACCEPTED!!!**
+
 
   **NO AMERICA EXPRESS!!**
 
+
   **$20.00 MEN HAIRCUTS**
+
 
   **PARKING NORTHSIDE: BLUE SPACES**
 
-  **SUMMER HOURS STARTS MONDAY MAY 16TH - ENDS FRIDAY AUGUST MAY 12TH 2022**
+
+  **SUMMER HOURS STARTS MONDAY MAY 16TH  - WEDNESDAY 12- 4 - ENDS FRIDAY AUGUST 12TH 2022**
 importantinfo: ""
 info2: "1."
 hours: |-
