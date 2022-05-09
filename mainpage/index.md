@@ -14,8 +14,6 @@ info: |-
 
   **ENDS FRIDAY AUGUST 12TH 2022** 
 
-  **11:00am - 5:00pm**
-
   **CASH, ZELLE & CARD ACCEPTED!!!**
 
   **NO AMERICA EXPRESS!!**
