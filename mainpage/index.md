@@ -12,8 +12,10 @@ promos: ""
 info: |-
   **SUMMER HOURS STARTS MONDAY 16TH - WEDNESDAY 12 - 4**
 
-  **ENDS FRIDAY AUGUST 12TH 2022** \
-  **CLOSED JULY 4 - JULY 25 2022** 
+  **ENDS FRIDAY AUGUST 12TH 2022** 
+
+  \
+  **CLOSED JULY 4 - JULY 25 2022**  
 
   **CASH, ZELLE & CARD ACCEPTED!!!**
 
@@ -23,7 +25,7 @@ info: |-
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
-info2: "1."
+info2: ""
 hours: |-
   | Day       | Hours                  |
   | --------- | ---------------------- |
