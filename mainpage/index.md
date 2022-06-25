@@ -10,6 +10,8 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
+  **MASK REQUIRED!!!!!**
+
   **SUMMER HOURS STARTS MONDAY 16TH - WEDNESDAY 12 - 4**
 
   **ENDS FRIDAY AUGUST 12TH 2022** 
