@@ -10,14 +10,13 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **MASK REQUIRED!!!!!**
+  **CLOSED JULY 4TH 2022**
+
+  **CLOSED VACATION JULY 11TH - JULY 31ST 2022**
 
   **SUMMER HOURS STARTS MONDAY 16TH - WEDNESDAY 12 - 4**
 
-  **ENDS FRIDAY AUGUST 12TH 2022** 
-
-  \
-  **CLOSED JULY 4 - JULY 25 2022**  
+  **ENDS FRIDAY AUGUST 12TH 2022**
 
   **CASH, ZELLE & CARD ACCEPTED!!!**
 
