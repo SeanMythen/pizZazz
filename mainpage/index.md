@@ -10,15 +10,15 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **CLOSED JULY 4TH 2022**
+  **CLOSED AUGUST 8 - 14 2022**
 
-  **CLOSED VACATION JULY 11TH - JULY 31ST 2022**
+  **REGULAR HOURS RESUME**
 
-  **SUMMER HOURS STARTS MONDAY 16TH - WEDNESDAY 12 - 4**
+  **AUGUST 15th 2022** 
 
-  **ENDS FRIDAY AUGUST 12TH 2022**
+  **MONDAY - FRIDAY 11:00 - 5:00**
 
-  **CASH, ZELLE & CARD ACCEPTED!!!**
+  **CASH, ZELLE, VENMO &CARD ACCEPTED!!!**
 
   **NO AMERICA EXPRESS!!**
 
