@@ -16,7 +16,9 @@ info: |-
 
   **AUGUST 15th 2022** 
 
-  **MONDAY - FRIDAY 11:00 - 5:00**
+  **MONDAY - FRIDAY** 
+
+  **11:00 - 5:00**
 
   **CASH, ZELLE, VENMO &CARD ACCEPTED!!!**
 
