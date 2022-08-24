@@ -14,6 +14,8 @@ info: |-
 
   **12:00 - 5:00**
 
+  **APPT. ONLY!!!**
+
   **CASH, ZELLE, VENMO**
 
   **CARD ACCEPTED!!!**
