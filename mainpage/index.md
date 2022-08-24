@@ -10,17 +10,13 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **CLOSED AUGUST 8 - 14 2022**
-
-  **REGULAR HOURS RESUME**
-
-  **AUGUST 15th 2022** 
-
-  **MONDAY - FRIDAY** 
+  **OPEN: MONDAY - FRIDAY** 
 
   **12:00 - 5:00**
 
-  **CASH, ZELLE, VENMO &CARD ACCEPTED!!!**
+  **CASH, ZELLE, VENMO**
+
+  **CARD ACCEPTED!!!**
 
   **NO AMERICA EXPRESS!!**
 
