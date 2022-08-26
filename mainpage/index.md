@@ -14,15 +14,15 @@ info: |-
 
   **12:00 - 5:00**
 
+  **$20.00 MEN HAIRCUTS**
+
   **APPT. ONLY!!!**
 
-  **CASH, ZELLE, VENMO**
+  **CASH, VENMO, ZELLE**
 
   **CARD ACCEPTED!!!**
 
-  **NO AMERICA EXPRESS!!**
-
-  **$20.00 MEN HAIRCUTS**
+  **NO AMERICA EXPRESS!**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
