@@ -10,15 +10,15 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
+  **$20.00 MEN HAIRCUTS**
+
   **CASH, VENMO,  ZELLE**
 
-  **OPEN: MONDAY - FRIDAY** 
+   **OPEN: MONDAY - FRIDAY** 
 
   **12:00 - 5:00**
 
-  **$20.00 MEN HAIRCUTS**
-
-  **APPT. ONLY!!**
+  **BY APPT. ONLY!!**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
