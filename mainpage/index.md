@@ -12,6 +12,8 @@ promos: ""
 info: |-
   **$20.00 MEN HAIRCUTS**
 
+  **$25.00 MEN SCISSORS CUTS**
+
   **CASH, VENMO,  ZELLE**
 
    **OPEN: MONDAY - FRIDAY** 
