@@ -12,7 +12,7 @@ promos: ""
 info: |-
   **WINTER BREAK HOURS**
 
-  **DEC.12th - JAN.12th**
+  **DEC.12th  2022 - JAN.12th 2023**
 
   **12:00 - 4:00**
 
