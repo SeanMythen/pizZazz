@@ -10,15 +10,19 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
+  **WINTER BREAK HOURS**
+
+  **DEC.12th - JAN.12th**
+
+  **12:00 - 4:00**
+
+  **MONDAY - THURSDAY**
+
   **$20.00 MEN HAIRCUTS**
 
   **$25.00 MEN SCISSOR CUTS**
 
-  **CASH, VENMO,  ZELLE**
-
-   **OPEN: MONDAY - FRIDAY** 
-
-  **12:00 - 5:00**
+  **CASH, ZELLE, VENMO**
 
   **BY APPT. ONLY!!**
 
