@@ -16,7 +16,7 @@ info: |-
 
   **12:00 - 4:00**
 
-  **MONDAY - THURSDAY**
+  **MONDAY - WEDNESDAY**
 
   **$20.00 MEN HAIRCUTS**
 
