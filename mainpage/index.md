@@ -20,6 +20,9 @@ info: |-
 
   **$20.00 MEN HAIRCUTS**
 
+  **1ST OF JANUARY** \
+  **HAIRCUTS 23.00**
+
   **$25.00 MEN SCISSOR CUTS**
 
   **CASH, ZELLE, VENMO**
