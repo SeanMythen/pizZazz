@@ -18,10 +18,7 @@ info: |-
 
   **MONDAY - WEDNESDAY**
 
-  **$20.00 MEN HAIRCUTS**
-
-  **1ST OF JANUARY** \
-  **MEN** **HAIRCUTS 23.00**
+  **$20.00 MEN HAIRCUT**
 
   **$25.00 MEN SCISSOR CUTS**
 
