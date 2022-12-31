@@ -16,9 +16,9 @@ info: |-
 
   **12:00 - 4:00**
 
-  **MONDAY - WEDNESDAY**
+  **MONDAY - WEDNESDAY: DAYS MAY VARIES**
 
-  **$20.00 MEN HAIRCUT**
+  **$23.00 MEN HAIRCUT**
 
   **$25.00 MEN SCISSOR CUTS**
 
