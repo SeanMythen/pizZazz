@@ -30,15 +30,15 @@ info: |-
 importantinfo: ""
 info2: ""
 hours: |-
-  | Day       | Hours                  |
-  | --------- | ---------------------- |
-  | Sunday    | Closed                 |
-  | Monday    | 11:00 a.m. - 5:00 p.m. |
-  | Tuesday   | 11:00 a.m.-  5:00 p.m. |
-  | Wednesday | 11:00 a.m. - 5:00 p.m. |
-  | Thursday  | 11:00 a.m. - 5:00 p.m. |
-  | Friday    | 11:00 a.m. - 5:00 p.m. |
-  | Saturday  | Closed                 |
+  | **Days**      | **Hours**                  |
+  | ------------- | -------------------------- |
+  | Sunday        | Closed                     |
+  | **Monday**    | **11:00 a.m. - 5:00 p.m.** |
+  | **Tuesday**   | **11:00 a.m.-  5:00 p.m.** |
+  | **Wednesday** | **11:00 a.m. - 5:00 p.m.** |
+  | **Thursday**  | **11:00 a.m. - 5:00 p.m.** |
+  | **Friday**    | **11:00 a.m. - 5:00 p.m.** |
+  | Saturday      | Closed                     |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
 stylist1description: I have been a hairstylist for more than 20 years.  I'm very
