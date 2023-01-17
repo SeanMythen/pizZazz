@@ -10,14 +10,6 @@ cut4image: /assets/img/uploads/11.jpg
 cut5image: /assets/img/uploads/uploaded-square-image.png
 promos: ""
 info: |-
-  **WINTER BREAK HOURS**
-
-  **DEC.12th  2022 - JAN.12th 2023**
-
-  **12:00 - 4:00**
-
-  **MONDAY - WEDNESDAY: DAYS MAY VARIES**
-
   **$23.00 MEN HAIRCUTS**
 
   **$25.00 MEN SCISSOR CUTS**
