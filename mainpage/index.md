@@ -7,7 +7,7 @@ cut1image: /assets/img/uploads/img_4545.jpg
 cut2image: /assets/img/uploads/7.jpg
 cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/11.jpg
-cut5image: /assets/img/uploads/uploaded-square-image.png
+cut5image: /assets/img/uploads/thumbnail-1-.jpeg
 promos: ""
 info: |-
   **$23.00 MEN HAIRCUTS**
