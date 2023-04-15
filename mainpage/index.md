@@ -6,7 +6,7 @@ section: home
 cut1image: /assets/img/uploads/img_4545.jpg
 cut2image: /assets/img/uploads/7.jpg
 cut3image: /assets/img/uploads/3.jpg
-cut4image: /assets/img/uploads/img_1751.jpg
+cut4image: /assets/img/uploads/img_1819.jpeg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
