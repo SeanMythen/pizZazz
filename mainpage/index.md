@@ -10,6 +10,16 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
+  **SUMMER HOURS**
+
+   **MAY 15th - AUGUST 14TH**
+
+  **MONDAY - WEDNESDAY** 
+
+  **12-4**
+
+  **WALK-IN & APPT. AVAILABLE**
+
   **$23.00 MEN HAIRCUTS**
 
   **$25.00 MEN SCISSOR CUTS**
