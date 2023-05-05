@@ -12,7 +12,7 @@ promos: ""
 info: |-
   **SUMMER HOURS**
 
-   **MARCH 15th - AUGUST 14TH**
+   **MAY 15th - AUGUST 14TH**
 
   **MONDAY - WEDNESDAY** 
 
