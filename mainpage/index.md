@@ -18,6 +18,8 @@ info: |-
 
   **12-3**
 
+  **CLOSED JUNE 21ST - JULY 18TH**
+
   **WALK-IN & APPT. AVAILABLE**
 
   **$23.00 MEN HAIRCUTS**
