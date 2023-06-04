@@ -14,9 +14,9 @@ info: |-
 
    **MAY 15th - AUGUST 14TH**
 
-  **MONDAY - WEDNESDAY** 
+  **MONDAY - TUESDAY**
 
-  **12-4**
+  **12-3**
 
   **WALK-IN & APPT. AVAILABLE**
 
