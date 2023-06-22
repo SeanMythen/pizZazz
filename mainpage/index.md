@@ -10,17 +10,23 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  **SUMMER HOURS STARTS**
+  
 
-   **MAY 15th - AUGUST 14TH**
+  **CLOSED: VACATION**
 
-  **MONDAY - TUESDAY**
+  **RE-OPENS JULY 17th**
 
-  **12-3**
+  **MONDAY & TUESDAY** 
 
-  **CLOSED JUNE 21ST - JULY 18TH**
+  **12 - 4**
 
-  **WALK-IN & APPT. AVAILABLE**
+  **REGULAR HOURS RESUME**
+
+  **AUGUST 14th**
+
+  **MONDAY - THURSDAY**
+
+  **11  - 5pm**
 
   **$23.00 MEN HAIRCUTS**
 
@@ -37,10 +43,10 @@ hours: |-
   | **Days**      | **Hours**                  |
   | ------------- | -------------------------- |
   | Sunday        | Closed                     |
-  | **Monday**    | **12:00 p.m. - 5:00 p.m.** |
-  | **Tuesday**   | **12:00 p.m.-  5:00 p.m.** |
-  | **Wednesday** | **12:00 p.m. - 5:00 p.m.** |
-  | **Thursday**  | **12:00 p.m. - 5:00 p.m**  |
+  | **Monday**    | **11:00 p.m. - 5:00 p.m.** |
+  | **Tuesday**   | **11:00 p.m.-  5:00 p.m.** |
+  | **Wednesday** | **11:00 p.m. - 5:00 p.m.** |
+  | **Thursday**  | **11:00 p.m. - 5:00 p.m**  |
   | Saturday      | Closed                     |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
