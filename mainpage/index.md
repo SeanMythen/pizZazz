@@ -10,15 +10,7 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  **SUMMER HOURS**
-
-  **MONDAY & TUESDAY** 
-
-  **12 - 4**
-
-  **REGULAR HOURS RESUME**
-
-  **MONDAY AUGUST 14th**
+  
 
   **MONDAY - THURSDAY**
 
