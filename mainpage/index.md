@@ -10,7 +10,11 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  
+  **HOLIDAY'S HOURS:** 
+
+  **NOV 21-23, 11-3PM**
+
+  **DEC 18-JAN 16, 11-3PM**
 
   **MONDAY - THURSDAY**
 
@@ -40,7 +44,7 @@ stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
 stylist1description: I have been a hairstylist for more than 20 years.  I'm very
   passionate about what I do and I enjoy meeting new people.  I've always had a
-  desire to open a Barber Shop on campus that could accommodate students and
+  desire to open a Men Hair Salon on campus that could accommodate students and
   staff with affordable prices.  In 2012 PizZazz doors opened to the public and,
   since then, has been providing an environment and atmosphere that is welcoming
   to people of all nationalities.
