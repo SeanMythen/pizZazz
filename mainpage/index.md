@@ -10,11 +10,15 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
+  **COMING SOON:**
+
   **HOLIDAY'S HOURS:** 
 
   **NOV 21-23, 11-3PM**
 
   **DEC 18-JAN 16, 11-3PM**
+
+
 
   **MONDAY - THURSDAY**
 
