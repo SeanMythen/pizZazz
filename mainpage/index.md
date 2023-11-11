@@ -12,6 +12,8 @@ promos: ""
 info: |-
   **COMING SOON:**
 
+  **THANKSGIVING**
+
   **HOLIDAY'S HOURS:** 
 
   **NOV 20-22, 11-3PM**
