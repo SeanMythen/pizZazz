@@ -20,6 +20,8 @@ info: |-
 
 
 
+  **REGULAR HOURS:**
+
   **MONDAY - THURSDAY**
 
   **11am  - 5:30pm**
