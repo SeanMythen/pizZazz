@@ -16,7 +16,7 @@ info: |-
 
   **NOV 20-22, 11-3PM**
 
-  **DEC 18-JAN 16, 11-3PM**
+
 
   **REGULAR HOURS:**
 
