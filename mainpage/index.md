@@ -20,9 +20,9 @@ info: |-
 
   **MONDAY - WEDNESDAY**
 
-  **DEC.18th - DEC.20th** 
+  **DEC. 18th - DEC. 20th** 
 
-  **JAN. 8th - JAN.10th 2024**
+  **JAN. 8th - JAN. 10th 2024**
 
   **REGULAR HOURS RESUME :**
 
