@@ -16,11 +16,13 @@ info: |-
 
   **WINTER BREAK HOURS:**
 
-  **11am -3pm** 
+  **OPEN: 11am -3pm** 
 
   **MONDAY - WEDNESDAY**
 
   **DEC.18th - DEC.20th** 
+
+  **JAN. 8th - JAN.10th 2024**
 
   **REGULAR HOURS RESUME :**
 
