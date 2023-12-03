@@ -10,17 +10,21 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
+  **HAPPY HOLIDAY'S!!!!!**
+
   **COMING SOON:**
 
-  **THANKSGIVING**
+  **WINTER BREAK HOURS:**
 
-  **HOLIDAY'S HOURS:** 
+  **11am -3pm** 
 
-  **NOV 20-22, 11-3PM**
+  **MONDAY - WEDNESDAY**
 
+  **DEC.18th - DEC.20th** 
 
+  **REGULAR HOURS RESUME :**
 
-  **REGULAR HOURS:**
+  **JAN. 15th 2024**
 
   **MONDAY - THURSDAY**
 
