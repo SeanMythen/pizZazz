@@ -12,7 +12,7 @@ promos: ""
 info: |-
   **WINTER BREAK HOURS:**
 
-   ** OPEN**
+    **OPEN**
 
   **MONDAY - WEDNESDAY**
 
