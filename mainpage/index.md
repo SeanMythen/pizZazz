@@ -14,6 +14,8 @@ info: |-
 
   **WINTER BREAK HOURS:**
 
+   **\    OPEN**
+
   **MONDAY - WEDNESDAY**
 
   **JAN. 8th - JAN. 10th 2024**
