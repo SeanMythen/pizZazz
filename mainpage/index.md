@@ -12,17 +12,13 @@ promos: ""
 info: |-
   **HAPPY HOLIDAY'S!!!!!**
 
-  **COMING SOON:**
-
   **WINTER BREAK HOURS:**
-
-  **OPEN: 11am -3pm** 
 
   **MONDAY - WEDNESDAY**
 
-  **DEC. 18th - DEC. 20th** 
-
   **JAN. 8th - JAN. 10th 2024**
+
+  **11 -3**
 
   **REGULAR HOURS RESUME :**
 
@@ -30,11 +26,9 @@ info: |-
 
   **MONDAY - THURSDAY**
 
-  **11am  - 5:30pm**
+  **11am  - 5:00pm**
 
-  **$23.00 MEN HAIRCUTS**
-
-  **$25.00 MEN SCISSOR CUTS**
+  **$25.00 MEN HAIRCUTS**
 
   **CASH, ZELLE, VENMO**
 
