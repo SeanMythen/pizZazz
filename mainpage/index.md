@@ -10,19 +10,7 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  **WINTER BREAK HOURS:**
-
-    **OPEN**
-
-  **MONDAY - WEDNESDAY**
-
-  **JAN. 8th - JAN. 10th 2024**
-
-  **11 -3**
-
-  **REGULAR HOURS RESUME :**
-
-  **JAN. 15th 2024**
+  
 
   **MONDAY - THURSDAY**
 
