@@ -26,8 +26,6 @@ info: |-
 
   **CASH, ZELLE, VENMO**
 
-  **BY APPT. ONLY!!**
-
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
 info2: ""
