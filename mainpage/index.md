@@ -12,12 +12,13 @@ promos: ""
 info: |-
   **SUMMER HOURS**
 
+  **WALK INS WELCOME!!** 
+
+  **MONDAY - WEDNESDAY**
+
   **MAY 20 - JUNE 25**
 
   **JULY 15 - AUGUST 11**
-
-  **WALK INS WELCOME**\
-  **MONDAY - WEDNESDAY**
 
   **11:00am - 3:00pm**
 
