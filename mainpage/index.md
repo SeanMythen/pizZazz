@@ -16,11 +16,11 @@ info: |-
 
   **MONDAY - WEDNESDAY**
 
+  **11:00am - 3:00pm**
+
   **MAY 20 - JUNE 25**
 
   **JULY 15 - AUGUST 11**
-
-  **11:00am - 3:00pm**
 
   **$25.00 MEN HAIRCUTS**
 
