@@ -20,9 +20,17 @@ info: |-
 
   **MAY 20 - JUNE 25**
 
-  **JULY 15 - AUGUST 11**
+  **JULY 22 - AUGUST 14**
 
   **$25.00 MEN HAIRCUTS**
+
+  **REGULAR HOURS RESUME** 
+
+  **MONDAY - THURSDAY**
+
+  **11:00am - 4:30pm**
+
+  **AUGUST 19**
 
   **CASH, ZELLE, VENMO**
 
@@ -33,10 +41,10 @@ hours: |-
   | **Days**      | **Hours**                  |
   | ------------- | -------------------------- |
   | Sunday        | Closed                     |
-  | **Monday**    | **11:00 p.m. - 5:00 p.m.** |
-  | **Tuesday**   | **11:00 p.m.-  5:00 p.m.** |
-  | **Wednesday** | **11:00 p.m. - 5:00 p.m.** |
-  | **Thursday**  | **11:00 p.m. - 5:00 p.m**  |
+  | **Monday**    | **11:00 p.m. - 4:30 p.m.** |
+  | **Tuesday**   | **11:00 p.m.-  4:30 p.m.** |
+  | **Wednesday** | **11:00 p.m. - 4:30 p.m.** |
+  | **Thursday**  | **11:00 p.m. - 4:30 p.m**  |
   | Saturday      | Closed                     |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
