@@ -20,9 +20,17 @@ info: |-
 
   **MAY 20 - JUNE 25**
 
-  **JULY 15 - AUGUST 11**
+  **JULY 22 - AUGUST 14**
 
   **$25.00 MEN HAIRCUTS**
+
+  **REGULAR HOURS RESUME** 
+
+  **MONDAY - THURSDAY**
+
+  **11:00am - 4:30pm**
+
+  **AUGUST 26**
 
   **CASH, ZELLE, VENMO**
 
