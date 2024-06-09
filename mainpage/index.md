@@ -41,10 +41,10 @@ hours: |-
   | **Days**      | **Hours**                  |
   | ------------- | -------------------------- |
   | Sunday        | Closed                     |
-  | **Monday**    | **11:00 p.m. - 5:00 p.m.** |
-  | **Tuesday**   | **11:00 p.m.-  5:00 p.m.** |
-  | **Wednesday** | **11:00 p.m. - 5:00 p.m.** |
-  | **Thursday**  | **11:00 p.m. - 5:00 p.m**  |
+  | **Monday**    | **11:00 p.m. - 4:30 p.m.** |
+  | **Tuesday**   | **11:00 p.m.- 4:30 p.m.**  |
+  | **Wednesday** | **11:00 p.m. - 4:30 p.m.** |
+  | **Thursday**  | **11:00 p.m. - 4:30 p.m**  |
   | Saturday      | Closed                     |
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
