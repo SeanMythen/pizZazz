@@ -42,7 +42,7 @@ hours: |-
   | ------------- | -------------------------- |
   | Sunday        | Closed                     |
   | **Monday**    | **11:00 p.m. - 4:30 p.m.** |
-  | **Tuesday**   | **11:00 p.m.- 4:30 p.m.**  |
+  | **Tuesday**   | **11:00 p.m.-  4:30 p.m.** |
   | **Wednesday** | **11:00 p.m. - 4:30 p.m.** |
   | **Thursday**  | **11:00 p.m. - 4:30 p.m**  |
   | Saturday      | Closed                     |
