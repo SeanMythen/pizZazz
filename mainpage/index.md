@@ -30,7 +30,7 @@ info: |-
 
   **11:00am - 4:30pm**
 
-  **AUGUST 26**
+  **AUGUST 19**
 
   **CASH, ZELLE, VENMO**
 
