@@ -16,7 +16,7 @@ info: |-
 
   **MONDAY - WEDNESDAY**
 
-  **11:00am - 3:00pm**
+  **11:00am -2:30pm**
 
   **MAY 20 - JUNE 25**
 
