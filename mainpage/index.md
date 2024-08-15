@@ -12,6 +12,8 @@ promos: ""
 info: |-
   **$25.00 MEN HAIRCUTS**
 
+  **BY APPT. ONLY** 
+
   **REGULAR HOURS RESUME** 
 
   **MONDAY - THURSDAY**
