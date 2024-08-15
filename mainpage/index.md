@@ -10,18 +10,6 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  **SUMMER HOURS**
-
-  **WALK INS WELCOME!!** 
-
-  **MONDAY - WEDNESDAY**
-
-  **11:00am -2:30pm**
-
-  **MAY 20 - JUNE 25**
-
-  **JULY 22 - AUGUST 14**
-
   **$25.00 MEN HAIRCUTS**
 
   **REGULAR HOURS RESUME** 
