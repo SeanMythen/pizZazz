@@ -22,7 +22,7 @@ info: |-
 
   **AUGUST 19**
 
-  **CASH, ZELLE, VENMO**
+  **CASH, VISA, DEBIT, ZELLE, VENMO**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
