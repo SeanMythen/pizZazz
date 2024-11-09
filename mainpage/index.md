@@ -12,15 +12,11 @@ promos: ""
 info: |-
   **$25.00 MEN HAIRCUTS**
 
-  **BY APPT. ONLY** 
-
-  **REGULAR HOURS RESUME** 
+  **BY APPT. ONLY**
 
   **MONDAY - THURSDAY**
 
   **11:00am - 4:30pm**
-
-  **AUGUST 19**
 
   **CASH, VISA, DEBIT, ZELLE, VENMO**
 
