@@ -18,7 +18,7 @@ info: |-
 
   **11:00am - 4:30pm**
 
-  **CASH, VISA, DEBIT, ZELLE, VENMO**
+  **CASH, ZELLE, VENMO**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
