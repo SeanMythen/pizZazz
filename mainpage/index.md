@@ -12,7 +12,7 @@ promos: ""
 info: |-
   **HAPPY HOLIDAY**
 
-  **CLOSED DEC 24 - JAN 3**
+  **CLOSED DEC 24 - JAN 5**
 
   **$25.00 MEN HAIRCUTS**
 
