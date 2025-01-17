@@ -10,10 +10,6 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  **HAPPY HOLIDAY**
-
-  **CLOSED DEC 24 - JAN 5**
-
   **$25.00 MEN HAIRCUTS**
 
   **BY APPT. ONLY**
