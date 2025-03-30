@@ -14,8 +14,6 @@ info: |-
 
   **$25.00 MEN HAIRCUTS**
 
-  **APPTS AVAILABLE!!**
-
   **MONDAY - THURSDAY**
 
   **11:00am - 4:30pm**
