@@ -10,9 +10,11 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
+  **WALK INS WELCOME!!**
+
   **$25.00 MEN HAIRCUTS**
 
-  **BY APPT. ONLY**
+  **APPTS AVAILABLE!!**
 
   **MONDAY - THURSDAY**
 
