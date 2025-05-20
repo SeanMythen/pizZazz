@@ -10,6 +10,8 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
+  **$25 MEN HAIRCUTS**
+
   **SUMMER HOURS: 11:00am -3:00pm**
 
   **MAY 18th - AUG 17th**
@@ -17,8 +19,6 @@ info: |-
   **CLOSED: JUNE 18th - JULY 29th**
 
   **REGULAR HOURS RESUME: AUG 18th**
-
-  **$25.00 MEN HAIRCUTS**
 
   **MONDAY - THURSDAY**
 
