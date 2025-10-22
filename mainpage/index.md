@@ -10,6 +10,8 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
+  **NO PREPAID REQUIRED OCT 24-26**
+
   **$25 MEN HAIRCUTS**
 
   **MONDAY - THURSDAY**
