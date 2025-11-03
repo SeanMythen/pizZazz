@@ -10,7 +10,7 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  **NO PREPAID REQUIRED UNTIL NOV.**
+  
 
   **$25 MEN HAIRCUTS**
 
