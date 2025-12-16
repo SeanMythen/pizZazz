@@ -10,7 +10,11 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  
+  **HAPPY HOLIDAY!!**
+
+  **ENJOY YOUR WINTER BREAK!!**
+
+  **CLOSED DEC.23 - JAN.12**
 
   **$25 MEN HAIRCUTS**
 
