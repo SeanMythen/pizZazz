@@ -12,7 +12,7 @@ promos: ""
 info: |-
   **HAPPY HOLIDAY!**
 
-  **CLOSED DEC.23 - JAN.12 2026**
+  **CLOSED DEC.23 - JAN.11, 2026**
 
   **ENJOY YOUR WINTER BREAK!**
 
