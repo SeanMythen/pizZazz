@@ -10,8 +10,6 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  
-
   **$25 MEN HAIRCUTS**
 
   **MONDAY - THURSDAY**
