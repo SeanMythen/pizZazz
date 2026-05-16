@@ -10,13 +10,15 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
+  **CASH ONLY!!**
+
   **$25 MEN HAIRCUTS**
 
-  **MONDAY - THURSDAY**
+  **SUMMER HOURS:**
 
-  **11:00am - 4:30pm**
+  **MONDAY -WEDNESDAY**
 
-  **CASH, ZELLE, VENMO**
+  **11:00am - 3:00pm**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
