@@ -10,15 +10,17 @@ cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
 info: |-
-  **CASH ONLY!!**
+  **WALK IN WELCOME !!**
+
+  **ZELLE & CASH ONLY**
 
   **$25 MEN HAIRCUTS**
 
   **SUMMER HOURS:**
 
-  **MONDAY -WEDNESDAY**
+  **MONDAY - TUESDAY**
 
-  **11:00am - 3:00pm**
+  **11:00am - 2:30pm**
 
   **PARKING NORTHSIDE: BLUE SPACES**
 importantinfo: ""
