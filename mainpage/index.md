@@ -9,31 +9,31 @@ cut3image: /assets/img/uploads/3.jpg
 cut4image: /assets/img/uploads/img_1751.jpg
 cut5image: /assets/img/uploads/img_0694.jpg
 promos: ""
-info: |-
-  **WALK IN WELCOME !!**
+info: ""
+importantinfo: "**PERMANENTLY CLOSED**"
+info2: >-
+  With a heart full of gratitude and a touch of bittersweet emotions, I share
+  with my family and clients the news of my retirement and closing of PizZazz.
 
-  **ZELLE & CASH ONLY**
 
-  **$25 MEN HAIRCUTS**
+  For the past 15 years, serving the CU area and Campustown has truly been an honor and a joy.
 
-  **SUMMER HOURS:**
 
-  **MONDAY - TUESDAY**
+  What an incredible journey it has been!
 
-  **11:00am - 2:30pm**
 
-  **PARKING NORTHSIDE: BLUE SPACES**
-importantinfo: ""
-info2: ""
-hours: |-
-  | **Days**      | **Hours**                  |
-  | ------------- | -------------------------- |
-  | Sunday        | Closed                     |
-  | **Monday**    | **11:00 p.m. - 4:30 p.m.** |
-  | **Tuesday**   | **11:00 p.m.-  4:30 p.m.** |
-  | **Wednesday** | **11:00 p.m. - 4:30 p.m.** |
-  | **Thursday**  | **11:00 p.m. - 4:30 p.m**  |
-  | Saturday      | Closed                     |
+  I have cherished every story you shared about your adventures near and far.
+
+
+  Now, it’s my turn to see the world.
+
+
+  I will truly miss each of you more than words can say, and I’m endlessly thankful for all your support.
+
+
+
+  Finally, May God Bless each and every one of you!!!
+hours: "**PERMANENTLY CLOSED**"
 stylist1image: /assets/img/uploads/Madlayn.jpg
 stylist1name: "Madlayn "
 stylist1description: I have been a hairstylist for more than 20 years.  I'm very
